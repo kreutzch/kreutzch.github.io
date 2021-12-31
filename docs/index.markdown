@@ -11,7 +11,7 @@ layout: home
  </div>
 <div style="margin-left: 25px;">
 <p>Christin K. Kreutz is a PhD student at Trier University in the Databases and Information Systems group lead by <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a>. 
-Her research focuses on bibliographic metadata, scholarly recommendation, scientometrics and domain-specific query languages.</p>
+Her research focuses on different aspects related to bibliographic metadata such as scholarly recommendation, scientometrics and domain-specific query languages.</p>
 
 <p style="color:grey">Contact: kreutzch at uni-trier.de</p>
 </div>
@@ -27,7 +27,7 @@ WI-IAT 2021 (to appear)\\
 
 *RevASIDE: Assignment of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
-iiWAS 2021 (to appear)\\
+iiWAS 2021: 57–68\\
 [[pdf]](resources/RevASIDE.pdf)
 
 *SchenQL: In-Depth Analysis of a Query Language for Bibliographic Metadata*\\
