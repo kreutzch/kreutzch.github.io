@@ -81,6 +81,10 @@ FDIA 2017\\
 \\
 **Preprints**
 
+*Scientific Paper Recommendation Systems: a Literature Review of recent Publications*\\
+Christin Katharina Kreutz, Ralf Schenkel\\
+[[preprint]](https://arxiv.org/pdf/2201.00682.pdf)
+
 *RevASIDE: Assignment of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
 [[preprint]](https://arxiv.org/pdf/2110.02862.pdf)
