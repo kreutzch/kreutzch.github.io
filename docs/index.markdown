@@ -13,12 +13,17 @@ layout: home
 <p>Christin K. Kreutz is a PhD student at Trier University in the Databases and Information Systems group lead by <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a>. 
 Her research focuses on different aspects related to bibliographic metadata such as scholarly recommendation, scientometrics and domain-specific query languages.</p>
 
-<p style="color:grey">Contact: kreutzch at uni-trier.de</p>
+<p style="color:grey">Contact: kreutzch (at) uni-trier.de</p>
 </div>
 </div>
 
 
 <p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck.html">[dblp]</a></p>
+
+*RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
+Christin Katharina Kreutz, Ralf Schenkel\\
+Journal of Data Intelligence (to appear)\\
+[[pdf]](resources/RevASIDE_Journal.pdf)
 
 *Diverse Reviewer Suggestion for Extending Conference Program Committees*\\
 Christin Katharina Kreutz, Krisztian Balog, Ralf Schenkel\\
@@ -80,6 +85,10 @@ FDIA 2017\\
 
 \\
 **Preprints**
+
+*Diverse Reviewer Suggestion for Extending Conference Program Committees*\\
+Christin Katharina Kreutz, Krisztian Balog, Ralf Schenkel\\
+[[preprint]](http://arxiv.org/pdf/2201.11030.pdf)
 
 *Scientific Paper Recommendation Systems: a Literature Review of recent Publications*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
