@@ -10,35 +10,43 @@ layout: home
 <img src="resources/kreutz.jpg" alt="drawing" style="border-radius: 20%; width: 115px;"/>
  </div>
 <div style="margin-left: 25px;">
-<p>Christin K. Kreutz is a PhD student at Trier University in the Databases and Information Systems group lead by <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a>. 
-Her research focuses on different aspects related to bibliographic metadata such as scholarly recommendation, scientometrics and domain-specific query languages.</p>
+<p>Christin Katharina Kreutz is a postdoctoral researcher at Cologne University of Applied Sciences (TH Köln) in the <i>Information Retrieval Research</i> group lead by <a href="https://ir.web.th-koeln.de/people/philipp-schaer/">Prof. Dr. Philipp Schaer</a>.
+In 2022 she completed her PhD in Computer Science at Trier University under supervision of <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a>. 
+</p>
+<p>
+Her research tackles different aspects related to information systems on bibliographic metadata with a focus on researchers' perspectives such as scholarly recommendation, scientometrics and domain-specific query languages.</p>
 
-<p style="color:grey">Contact: kreutzch (at) uni-trier.de</p>
+<p style="color:grey">Contact: ckreutz (at) acm (dot) org  <span>&#8226;</span> <a href="https://twitter.com/kreutzch">@kreutzch</a></p>
 </div>
 </div>
 
 
 <p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck.html">[dblp]</a></p>
 
+*SchenQL: A query language for bibliographic data with aggregations and domain-specific functions*\\
+Christin Katharina Kreutz, Martin Blum, Ralf Schenkel\\
+JCDL 2022 (Demo, to appear)\\
+[[pdf]](resources/SchenQL_Demo.pdf)
+
 *RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
 Journal of Data Intelligence (to appear)\\
 [[pdf]](resources/RevASIDE_Journal.pdf)
 
+*SchenQL: In-Depth Analysis of a Query Language for Bibliographic Metadata*\\
+Christin Katharina Kreutz, Michael Wolz, Jascha Knack, Benjamin Weyers, Ralf Schenkel\\
+IJDL 23, pages 113–132 (2022)\\
+[[pdf]](https://link.springer.com/content/pdf/10.1007/s00799-021-00317-8.pdf)
+
 *Diverse Reviewer Suggestion for Extending Conference Program Committees*\\
 Christin Katharina Kreutz, Krisztian Balog, Ralf Schenkel\\
-WI-IAT 2021 (to appear)\\
-[[pdf]](resources/DiveRS.pdf) [[code]](https://github.com/kreutzch/DiveRS) [[presentation]](https://www.youtube.com/watch?v=0JgLfhDohf0)
+WI-IAT 2021: 79-86\\
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3486622.3493931) [[code]](https://github.com/kreutzch/DiveRS) [[presentation]](https://www.youtube.com/watch?v=0JgLfhDohf0)
 
 *RevASIDE: Assignment of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
 iiWAS 2021: 57–68\\
 [[pdf]](resources/RevASIDE.pdf)
-
-*SchenQL: In-Depth Analysis of a Query Language for Bibliographic Metadata*\\
-Christin Katharina Kreutz, Michael Wolz, Jascha Knack, Benjamin Weyers, Ralf Schenkel\\
-IJDL (2021)\\
-[[pdf]](https://link.springer.com/content/pdf/10.1007/s00799-021-00317-8.pdf)
 
 *SchenQL: Evaluation of a Query Language for Bibliographic Metadata*\\
 Christin Katharina Kreutz, Michael Wolz, Benjamin Weyers, Ralf Schenkel\\
@@ -85,6 +93,10 @@ FDIA 2017\\
 
 \\
 **Preprints**
+
+*SchenQL: A query language for bibliographic data with aggregations and domain-specific functions*\\
+Christin Katharina Kreutz, Martin Blum, Ralf Schenkel\\
+[[preprint]](https://arxiv.org/pdf/2205.06513.pdf)
 
 *Diverse Reviewer Suggestion for Extending Conference Program Committees*\\
 Christin Katharina Kreutz, Krisztian Balog, Ralf Schenkel\\
