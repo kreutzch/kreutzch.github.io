@@ -23,15 +23,15 @@ Her research tackles different aspects related to information systems, mainly on
 
 <p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck.html">[dblp]</a></p>
 
-*Scientific Paper Recommendation Systems: a Literature Review of recent Publications*\\
-Christin Katharina Kreutz, Ralf Schenkel\\
-IJDL (to appear)\\
-[[pdf]](resources/Survey_Paper_Recommendation.pdf)
-
 *RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
 Journal of Data Intelligence (to appear)\\
 [[pdf]](resources/RevASIDE_Journal.pdf)
+
+*Scientific Paper Recommendation Systems: a Literature Review of recent Publications*\\
+Christin Katharina Kreutz, Ralf Schenkel\\
+IJDL (2022)\\
+[[pdf]](https://link.springer.com/content/pdf/10.1007/s00799-022-00339-w.pdf)
 
 *SchenQL: A query language for bibliographic data with aggregations and domain-specific functions*\\
 Christin Katharina Kreutz, Martin Blum, Ralf Schenkel\\
