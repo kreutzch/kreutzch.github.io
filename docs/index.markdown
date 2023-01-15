@@ -30,7 +30,7 @@ Journal of Data Intelligence (to appear)\\
 
 *Scientific Paper Recommendation Systems: a Literature Review of recent Publications*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
-IJDL (2022)\\
+IJDL 23(4), pages 335-369 (2022)\\
 [[pdf]](https://link.springer.com/content/pdf/10.1007/s00799-022-00339-w.pdf)
 
 *SchenQL: A query language for bibliographic data with aggregations and domain-specific functions*\\
@@ -40,7 +40,7 @@ JCDL 2022: 37:1-37:5 (Demo)\\
 
 *SchenQL: In-Depth Analysis of a Query Language for Bibliographic Metadata*\\
 Christin Katharina Kreutz, Michael Wolz, Jascha Knack, Benjamin Weyers, Ralf Schenkel\\
-IJDL 23, pages 113–132 (2022)\\
+IJDL 23(2), pages 113–132 (2022)\\
 [[pdf]](https://link.springer.com/content/pdf/10.1007/s00799-021-00317-8.pdf)
 
 *Diverse Reviewer Suggestion for Extending Conference Program Committees*\\
