@@ -11,10 +11,10 @@ layout: home
  </div>
 <div style="margin-left: 25px;">
 <p>Christin Katharina Kreutz is a postdoctoral researcher at TH Köln - University of Applied Sciences in the <i>Information Retrieval Research</i> group lead by <a href="https://ir.web.th-koeln.de/people/philipp-schaer/">Prof. Dr. Philipp Schaer</a>.
-In 2022 she completed her doctoral studies in Computer Science at Trier University under supervision of <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a>. 
+In 2022 she completed her doctoral studies in Computer Science at Trier University under supervision of <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a> with a thesis titled <a href="resources/Thesis.pdf">Information Systems on Bibliographic Metadata for Researchers</a>. 
 </p>
 <p>
-Her research tackles different aspects related to information systems, mainly on bibliographic metadata with a focus on researchers' perspectives such as scholarly recommendation, scientometrics and domain-specific query languages.</p>
+Her research tackles different aspects related to digital libraries with a focus on human perspectives such as construction and evaluation of user interfaces, scholarly recommendation, scientometrics or domain-specific query languages.</p>
 
 <p style="color:grey">Contact: ckreutz (at) acm (dot) org  <span>&#8226;</span> <a href="https://twitter.com/kreutzch">@kreutzch</a></p>
 </div>
@@ -25,12 +25,13 @@ Her research tackles different aspects related to information systems, mainly on
 
 
 
+
 - *Evaluating Digital Library Search Systems by using Formal Process Modelling*\\
 Christin Katharina Kreutz, Martin Blum, Philipp Schaer, Ralf Schenkel, Benjamin Weyers\\
 JCDL 2023 (to appear))\\
 [[preprint]](https://arxiv.org/abs/2304.11651.pdf) 
 [[dataset]](https://zenodo.org/record/7826530#.ZEzaXy9n5hE)
-- *Enriching Simple Keyword Queries for Domain-Aware Narrative Retrieva*\\
+- *Enriching Simple Keyword Queries for Domain-Aware Narrative Retrieval*\\
 Hermann Kroll, Christin Katharina Kreutz, Pascal Sackhoff, Wolf-Tilo Balke\\
 JCDL 2023 (to appear))\\
 [[preprint]](https://arxiv.org/abs/2304.07604.pdf)
@@ -41,7 +42,8 @@ JCDL 2023 (to appear))\\
 - *Capturing Stability of Information Needs in Digital Libraries*\\
 Christin Katharina Kreutz, Philipp Schaer, Ralf Schenkel\\
 JCDL 2023 (Poster, to appear))\\
-[[preprint]](https://arxiv.org/abs/2304.11656.pdf)
+[[preprint]](https://arxiv.org/abs/2304.11656.pdf) 
+[[poster]](resources/JCDL_Poster.pdf)
 - *RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 Christin Katharina Kreutz, Ralf Schenkel\\
 Journal of Data Intelligence 4(1&2), pages 101-133 (2023)\\
