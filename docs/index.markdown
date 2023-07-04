@@ -28,20 +28,20 @@ Her research tackles different aspects related to digital libraries with a focus
 
 - *Evaluating Digital Library Search Systems by using Formal Process Modelling*\\
 Christin Katharina Kreutz, Martin Blum, Philipp Schaer, Ralf Schenkel, Benjamin Weyers\\
-JCDL 2023 (to appear))\\
+JCDL 2023 (to appear)\\
 [[preprint]](https://arxiv.org/abs/2304.11651.pdf) 
 [[dataset]](https://zenodo.org/record/7826530#.ZEzaXy9n5hE)
 - *Enriching Simple Keyword Queries for Domain-Aware Narrative Retrieval*\\
 Hermann Kroll, Christin Katharina Kreutz, Pascal Sackhoff, Wolf-Tilo Balke\\
-JCDL 2023 (to appear))\\
+JCDL 2023 (to appear)\\
 [[preprint]](https://arxiv.org/abs/2304.07604.pdf)
 - *Bibliometric Data Fusion for Biomedical Information Retrieval*\\
 Timo Breuer, Christin Katharina Kreutz, Philipp Schaer, Dirk Tunger\\
-JCDL 2023 (to appear))\\
+JCDL 2023 (to appear)\\
 [[preprint]](https://arxiv.org/abs/2304.13012.pdf)
 - *Capturing Stability of Information Needs in Digital Libraries*\\
 Christin Katharina Kreutz, Philipp Schaer, Ralf Schenkel\\
-JCDL 2023 (Poster, to appear))\\
+JCDL 2023 (Poster, to appear)\\
 [[preprint]](https://arxiv.org/abs/2304.11656.pdf) 
 [[poster]](resources/JCDL_Poster.pdf)
 - *RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
