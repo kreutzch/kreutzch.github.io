@@ -21,39 +21,46 @@ Her research tackles different aspects related to digital libraries with a focus
 </div>
 
 
-<p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck.html">[dblp]</a></p>
+<p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ&hl=de">[Google Scholar]</a></p>
+
 
 
 ##### 2023
 
 - *Aspect-Driven Structuring of Historical Dutch Newspaper Archives*\\
 H Kroll, <u>CK Kreutz</u>, M Cuper, BM Thang, W-T Balke\\
-TPDL 2023 (to appear)\\
+TPDL 2023: 31–46\\
+[[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43849-3_4)
 [[preprint]](https://arxiv.org/pdf/2307.09203.pdf)
 [[code]](https://github.com/HermannKroll/AspectDrivenNewsStructuring)
 - *Text Simplification of Scientific Texts for Non-Expert Readers*\\
 B Engelmann, F Haak, <u>CK Kreutz</u>, N Nikzad Khasmakhi, P Schaer\\
-SimpleText@CLEF 2023 (to appear)\\
+SimpleText@CLEF 2023: 2987-2998\\
+[[pdf]](https://ceur-ws.org/Vol-3497/paper-250.pdf)
 [[preprint]](https://arxiv.org/pdf/2307.03569.pdf)
 [[code (ChatGPT)]](https://colab.research.google.com/drive/10LyozPzxUlqFxHkXyfjxezO469c1ou9z?usp=sharing)
 [[code (s2s models)]](https://colab.research.google.com/drive/1dI0rGH2mPMJ8OdsGnrqAz0HWQzfQCxK0?usp=sharing)
 - *Evaluating Digital Library Search Systems by using Formal Process Modelling*\\
 <u>CK Kreutz</u>, M Blum, P Schaer, R Schenkel, B Weyers\\
-JCDL 2023 (to appear)\\
+JCDL 2023: 1-12\\
+[[pdf]](https://ieeexplore.ieee.org/document/10265884)
 [[preprint]](https://arxiv.org/pdf/2304.11651.pdf) 
 [[dataset]](https://zenodo.org/record/7826530#.ZEzaXy9n5hE)
 - *Enriching Simple Keyword Queries for Domain-Aware Narrative Retrieval*\\
 H Kroll, <u>CK Kreutz</u>, P Sackhoff, W-T Balke\\
-JCDL 2023 (to appear)\\
+JCDL 2023: 143-154\\
+[[pdf]](https://ieeexplore.ieee.org/document/10266304)
 [[preprint]](https://arxiv.org/pdf/2304.07604.pdf)
 [[presentation]](https://youtu.be/FxkrcI7DROs)
 - *Bibliometric Data Fusion for Biomedical Information Retrieval*\\
 T Breuer, <u>CK Kreutz</u>, P Schaer, D Tunger\\
-JCDL 2023 (to appear)\\
+JCDL 2023: 107-118\\
+[[pdf]](https://ieeexplore.ieee.org/document/10265867)
 [[preprint]](https://arxiv.org/pdf/2304.13012.pdf)
 - *Capturing Stability of Information Needs in Digital Libraries*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
-JCDL 2023 (Poster, to appear)\\
+JCDL 2023: 276-278 (Poster)\\
+[[pdf]](https://ieeexplore.ieee.org/document/10266230)
 [[preprint]](https://arxiv.org/pdf/2304.11656.pdf) 
 [[poster]](resources/JCDL_Poster.pdf)
 - *RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
@@ -107,7 +114,7 @@ LWDA 2020: 23-34\\
 Scientometrics 125(3): 2915-2954 (2020)\\
 [[pdf]](https://link.springer.com/content/pdf/10.1007/s11192-020-03409-5.pdf) [[code]](https://github.com/dbis-trier-university/Semantometrics) [[dataset]](https://zenodo.org/record/3693939#.ZEzawi9n68U)
 
-##### 2019
+##### 2017-2019
 - *SchenQL: A Concept of a Domain-Specific Query Language on Bibliographic Metadata*\\
 <u>CK Kreutz</u>, M Wolz, R Schenkel\\
 ICADL 2019: 239-246\\
@@ -120,8 +127,6 @@ BIRNDL@SIGIR 2019: 42-55\\
 <u>CK Kreutz</u>, M Wolz, R Schenkel\\
 CoRR abs/1906.06132 (2019)\\
 [[preprint]](https://arxiv.org/pdf/1906.06132.pdf)
-
-##### 2018
 - *FacetSearch: A Faceted Information Search and Exploration Prototype*\\
 <u>CK Kreutz</u>, P Boesten, A Witry, R Schenkel\\
 LWDA 2018: 215-226\\
@@ -130,8 +135,6 @@ LWDA 2018: 215-226\\
 <u>CK Kreutz</u>\\
 Grundlagen von Datenbanken 2018: 35-40\\
 [[pdf]](http://ceur-ws.org/Vol-2126/paper5.pdf)
-
-##### 2017
 - *Trend Mining on Bibliographic Data*\\
 <u>CK Kreutz</u>\\
 FDIA 2017\\
