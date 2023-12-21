@@ -10,19 +10,20 @@ layout: home
 <img src="resources/kreutz.jpg" alt="drawing" style="border-radius: 20%; width: 115px;"/>
  </div>
 <div style="margin-left: 25px;">
-<p>Christin Katharina Kreutz is a postdoctoral researcher at TH Köln - University of Applied Sciences in the <i>Information Retrieval Research</i> group lead by <a href="https://ir.web.th-koeln.de/people/philipp-schaer/">Prof. Dr. Philipp Schaer</a>.
-In 2022 she completed her doctoral studies in Computer Science at Trier University under supervision of <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a> with a thesis titled <a href="resources/Thesis.pdf">Information Systems on Bibliographic Metadata for Researchers</a>. 
+<p>Christin Katharina Kreutz is a postdoctoral researcher at <a href="https://www.th-koeln.de/en/">TH Köln - University of Applied Sciences</a> in the <i>Information Retrieval Research</i> group lead by <a href="https://ir.web.th-koeln.de/people/philipp-schaer/">Prof. Dr. Philipp Schaer</a>.
+In 2022 she completed her doctoral studies in Computer Science at <a href="">Trier University</a> under supervision of <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a> with a thesis titled <a href="resources/Thesis.pdf">Information Systems on Bibliographic Metadata for Researchers</a>. 
+
+In 2021 Christin did a 3 month research visit with <a href="https://krisztianbalog.com/about/">Prof. Dr. Krisztian Balog</a> at <a href="https://www.uis.no/nb">University of Stavanger</a>, since 2023 she has been on a 4 month research visit with <a href="https://www.emc-lab.org/ullrich-ecker.html">Prof. Dr. Ullrich Ecker</a> at the <a href="https://www.uwa.edu.au">University of Western Australia</a>.
 </p>
 <p>
-Her research tackles different aspects related to digital libraries with a focus on human perspectives such as construction and evaluation of user interfaces, scholarly recommendation, scientometrics or domain-specific query languages.</p>
+Her general interests are information access systems and user behaviour/modelling. Christin's research questions are related to construction and evaluation of user interfaces, text simplification, scholarly recommendation, scientometrics, academic graphs and digital libraries.
+</p>
 
-<p style="color:grey">Contact: ckreutz (at) acm (dot) org  <span>&#8226;</span> <a href="https://twitter.com/kreutzch">@kreutzch</a></p>
+<p style="color:grey">Contact: christin (dot) kreutz (at) th-koeln (dot) de  <span>&#8226; <a href="https://www.linkedin.com/in/christinkreutz/">LinkedIn</a> </span><span>&#8226; <a href="https://twitter.com/kreutzch">@kreutzch</a></span></p>
 </div>
 </div>
 
-
-<p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ&hl=de">[Google Scholar]</a></p>
-
+<p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a></p>
 
 
 ##### 2023
@@ -140,3 +141,7 @@ Grundlagen von Datenbanken 2018: 35-40\\
 FDIA 2017\\
 <span style="color:grey">:trophy: Best Poster Award</span>\\
 [[pdf]](https://doi.org/10.14236/ewic/FDIA2017.11)
+
+<p id="publicity"><strong>Publicity</strong></p>
+
+- [Dec. 2023] Portrait on KT Boost funded project (in German), <a href="https://klaus-tschira-stiftung.de/meldungen/christin-kreutz-informatik-und-psychologie/">Klaus Tschira Foundation<a>
