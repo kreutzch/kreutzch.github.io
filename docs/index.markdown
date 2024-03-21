@@ -12,8 +12,9 @@ layout: home
 <div style="margin-left: 25px;">
 <p>Christin Katharina Kreutz is a postdoctoral researcher at <a href="https://www.th-koeln.de/en/">TH Köln - University of Applied Sciences</a> in the <i>Information Retrieval Research</i> group lead by <a href="https://ir.web.th-koeln.de/people/philipp-schaer/">Prof. Dr. Philipp Schaer</a>.
 In 2022 she completed her doctoral studies in Computer Science at <a href="">Trier University</a> under supervision of <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a> with a thesis titled <a href="resources/Thesis.pdf">Information Systems on Bibliographic Metadata for Researchers</a>. 
-
-In 2021 Christin did a 3 month research visit with <a href="https://krisztianbalog.com/about/">Prof. Dr. Krisztian Balog</a> at <a href="https://www.uis.no/nb">University of Stavanger</a>, since 2023 she has been on a 4 month research visit with <a href="https://www.emc-lab.org/ullrich-ecker.html">Prof. Dr. Ullrich Ecker</a> at the <a href="https://www.uwa.edu.au">University of Western Australia</a>.
+</p>
+<p>
+In 2023-2024 Christin did a 4 month research visit with <a href="https://www.emc-lab.org/ullrich-ecker.html">Prof. Dr. Ullrich Ecker</a> at the <a href="https://www.uwa.edu.au">University of Western Australia</a> in the School of Psychological Science, in 2021 she did a 3 month research visit with <a href="https://krisztianbalog.com/about/">Prof. Dr. Krisztian Balog</a> at <a href="https://www.uis.no/nb">University of Stavanger</a>.
 </p>
 <p>
 Her general interests are information access systems and user behaviour/modelling. Christin's research questions are related to construction and evaluation of user interfaces, text simplification, scholarly recommendation, scientometrics, academic graphs and digital libraries.
@@ -25,6 +26,15 @@ Her general interests are information access systems and user behaviour/modellin
 
 <p id="publications"><strong>Publications</strong>  <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a></p>
 
+##### 2024
+- *Evaluating Stability of Information Needs*\\
+<u>CK Kreutz</u>, P Schaer, R Schenkel\\
+BIR@ECIR 2024\\
+[[pdf]](resources/BIR@ECIR.pdf)[[dataset]](https://zenodo.org/records/10791641)
+- *Sim4IA -- Simulations for Information Access*\\
+P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, N Fuhr\\
+SIGIR 2024 (Workshop)\\
+[[webpage]](https://sim4ia.org/sigir2024/)
 
 ##### 2023
 
