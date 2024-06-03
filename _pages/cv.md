@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Work Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* since 05.24: Tandem Professor for *Data Science in the Humanities*
+  * <a href="https://www.thm.de/site/en/">TH Mittelhessen - University of Applied Sciences</a>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* since 05.24: Research Associate
+  * <a href="https://www.herder-institut.de/en/welcome/">Herder Institute for Historical Research on East Central Europe</a>
+  * *Digital Research and Information Infrastructures* team
+
+* 05.22 -- 04.24: Research Associate/PostDoc for *Data and Information Science*
+  * <a href="https://www.th-koeln.de/en/">TH Köln - University of Applied Sciences</a>
+  * Host: <a href="https://ir.web.th-koeln.de/people/philipp-schaer/">Prof. Dr. Philipp Schaer</a>, *Information Retrieval Research* group
+
+* 11.16 -- 04.22: Research Associate/Doctoral Student
+  * <a href="https://www.uni-trier.de/en/">Trier University</a>
+  * Supervisor: <a href="https://www.uni-trier.de/en/university/faculties-and-departments/faculty-iv/study-courses/computer-science/chairs/databases-and-information-systems/team/prof-dr-schenkel">Prof. Dr. Ralf Schenkel</a>, *Databases and Information Systems* group
+
+
+### Education
+
+* Doctorate in Computer Science, Trier University, 2022
+* M.Sc. in Computer Science, Trier University, 2016
+* B.Sc. in Computer Science, Trier University, 2015
+
+
+### Research Visits
+
+* 11.23 -- 03.24: <a href="https://www.uwa.edu.au">University of Western Australia</a>, School of Psychological Science. Host: <a href="https://www.emc-lab.org/ullrich-ecker.html">Prof. Dr. Ullrich Ecker</a>
+* 01.21 -- 04.21: <a href="https://www.uis.no/nb">University of Stavanger</a>. Host: <a href="https://krisztianbalog.com/about/">Prof. Dr. Krisztian Balog</a>
