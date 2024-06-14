@@ -15,7 +15,8 @@ ACL 2024 (to appear, Findings)\\
 [[code]](https://github.com/bjoernengelmann/BATS)[[dataset]](https://zenodo.org/records/11371690)
 - *Investigating Bias in Political Search Query Suggestions by Relative Comparison with LLMs*\\
 F Haak, B Engelmann, <u>CK Kreutz</u>, P Schaer\\
-WebSci 2024 (Poster)
+WebSci 2024 (Poster)\\
+[[pdf]](https://dl.acm.org/doi/10.1145/3630744.3658415)
 - *Evaluating Stability of Information Needs*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
 BIR@ECIR 2024\\
