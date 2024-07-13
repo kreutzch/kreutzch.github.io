@@ -24,7 +24,7 @@ BIR@ECIR 2024\\
 - *SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA 2024)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, N Fuhr\\
 SIGIR 2024 (Workshop)\\
-[[webpage]](https://sim4ia.org/sigir2024/)
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657991)[[webpage]](https://sim4ia.org/sigir2024/)
 
 ##### 2023
 
