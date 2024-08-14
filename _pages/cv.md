@@ -40,3 +40,8 @@ redirect_from:
 
 * 11.23 -- 03.24: <a href="https://www.uwa.edu.au">University of Western Australia</a>, School of Psychological Science. Host: <a href="https://www.emc-lab.org/ullrich-ecker.html">Prof. Dr. Ullrich Ecker</a>
 * 01.21 -- 04.21: <a href="https://www.uis.no/nb">University of Stavanger</a>. Host: <a href="https://krisztianbalog.com/about/">Prof. Dr. Krisztian Balog</a>
+
+
+### Publicity
+* 7.24: Interview on tandem professorship, FAZ [[article (in German)]](https://www.faz.net/aktuell/rhein-main/region-und-hessen/tandemprofessuren-an-der-technischen-hochschule-mittelhessen-19843023.html)
+* 12.23: Portrait on KT Boost funded project, Klaus Tschira Foundation, [[article (in German)]](https://klaus-tschira-stiftung.de/meldungen/christin-kreutz-informatik-und-psychologie/)

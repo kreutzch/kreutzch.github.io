@@ -12,7 +12,7 @@ author_profile: True
 - *BATS: BenchmArking Text Simplicity 🦇*\\
 <u>CK Kreutz</u>, F Haak, B Engelmann, P Schaer\\
 ACL 2024 (to appear, Findings)\\
-[[code]](https://github.com/bjoernengelmann/BATS)[[dataset]](https://zenodo.org/records/11371690)
+[[code]](https://github.com/bjoernengelmann/BATS) [[dataset]](https://zenodo.org/records/11371690) [[slides]](../files/ACL24 BATS.pdf) [[poster]](../files/BATS_ACL-poster.pdf)
 - *Investigating Bias in Political Search Query Suggestions by Relative Comparison with LLMs*\\
 F Haak, B Engelmann, <u>CK Kreutz</u>, P Schaer\\
 WebSci 2024 (Poster)\\
@@ -20,11 +20,19 @@ WebSci 2024 (Poster)\\
 - *Evaluating Stability of Information Needs*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
 BIR@ECIR 2024\\
-[[pdf]](https://drive.google.com/file/d/1y1lnYSjWAfcM4Euia6gZjxftikTj9lhn/view)[[dataset]](https://zenodo.org/records/10791641)
+[[pdf]](https://drive.google.com/file/d/1y1lnYSjWAfcM4Euia6gZjxftikTj9lhn/view) [[dataset]](https://zenodo.org/records/10791641)
 - *SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA 2024)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, N Fuhr\\
 SIGIR 2024 (Workshop)\\
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657991)[[webpage]](https://sim4ia.org/sigir2024/)
+[[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657991) [[webpage]](https://sim4ia.org/sigir2024/)
+- *Report on the Collab-a-Thon at ECIR 2024*\\
+S MacAvaney, A Roegiest, A Lipani, A Parry, B Engelmann, <u>CK Kreutz</u>, C Meng, E Frayling, E Yang, F Schlatt, G Faggioli, H Scells, I Atanassova, J Friese, J Bevendorff, J Sanz-Cruzado, J Trippas, K Pathak, K Dhole, L Azzopardi, M Fröbe, M Bertin, N Prasad, S Zerhoudi, S Wang, S Chatterjee, T Jaenich, U Kruschwitz, X Wang, Z Lon\\
+ACM SIGIR Forum 58(1), pages 1-11 (2024)\\
+[[pdf]](https://dl.acm.org/doi/abs/10.1145/3687273.3687287)
+- *Report on the 8th Workshop on Search-Oriented Conversational Artificial Intelligence (SCAI 2024) at CHIIR 2024*\\
+A Frummet, A Papenmeier, M Fröbe, J Kiesel, V Adlakha, N Braunschweiler, M Dubiel, S Ghosh, M Gohsen, <u>C Kreutz</u>, M Momeni, M Nilles, SP Cherumanal, A Pirmoradi, P Thomas, JR Trippas, I Zelch, O Zendel\\
+ACM SIGIR Forum 58(1), pages 1-12 (2024)\\
+[[pdf]](https://downloads.webis.de/publications/papers/frummet_2024b.pdf)
 
 ##### 2023
 
