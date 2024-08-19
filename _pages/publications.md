@@ -11,7 +11,8 @@ author_profile: True
 ##### 2024
 - *BATS: BenchmArking Text Simplicity 🦇*\\
 <u>CK Kreutz</u>, F Haak, B Engelmann, P Schaer\\
-ACL 2024 (to appear, Findings)\\
+ACL 2024 (Findings)\\
+[[pdf]](https://aclanthology.org/2024.findings-acl.712.pdf)
 [[code]](https://github.com/bjoernengelmann/BATS) [[dataset]](https://zenodo.org/records/11371690) [[slides]](../files/ACL24 BATS.pdf) [[poster]](../files/BATS_ACL-poster.pdf)
 - *Investigating Bias in Political Search Query Suggestions by Relative Comparison with LLMs*\\
 F Haak, B Engelmann, <u>CK Kreutz</u>, P Schaer\\
