@@ -9,6 +9,16 @@ author_profile: True
 
 
 ##### 2024
+- *ARTS: Assessing Readability & Text Simplicity 🎨*\\
+B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
+EMNLP 2024 (Findings)\\
+[[pdf]](..\files\ARTS.pdf) [[code]](https://github.com/irgroup/ARTS) [[dataset]](https://zenodo.org/records/13847807)
+- *SimIIR 3: A Framework for Simulating Interactive Information Retrieval*\\
+L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang and S Zerhoudi\\
+SIGIR-AP 2024
+- *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
+H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
+JCDL 2024 (Poster)
 - *BATS: BenchmArking Text Simplicity 🦇*\\
 <u>CK Kreutz</u>, F Haak, B Engelmann, P Schaer\\
 ACL 2024 (Findings)\\
@@ -26,6 +36,9 @@ BIR@ECIR 2024\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, N Fuhr\\
 SIGIR 2024 (Workshop)\\
 [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657991) [[webpage]](https://sim4ia.org/sigir2024/)
+- *Report on the Workshop on Simulations for Information Access (Sim4IA 2024) at SIGIR 2024*\\
+T Breuer, <u>CK Kreutz</u>, N Fuhr, K Balog, P Schaer, N Bernard, I Frommholz, M Gohsen, K Ji, GJF Jones, J Keller, J Liu, M Mladenov, G Pasi, J Trippas, X Wang, S Zerhoudi, C Zhai\\
+[[preprint]](https://arxiv.org/pdf/2409.18024)
 - *Report on the Collab-a-Thon at ECIR 2024*\\
 S MacAvaney, A Roegiest, A Lipani, A Parry, B Engelmann, <u>CK Kreutz</u>, C Meng, E Frayling, E Yang, F Schlatt, G Faggioli, H Scells, I Atanassova, J Friese, J Bevendorff, J Sanz-Cruzado, J Trippas, K Pathak, K Dhole, L Azzopardi, M Fröbe, M Bertin, N Prasad, S Zerhoudi, S Wang, S Chatterjee, T Jaenich, U Kruschwitz, X Wang, Z Lon\\
 ACM SIGIR Forum 58(1), pages 1-11 (2024)\\
