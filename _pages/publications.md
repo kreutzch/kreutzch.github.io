@@ -20,7 +20,7 @@ SIGIR-AP 2024
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
 JCDL 2024 (Poster)
 - *BATS: BenchmArking Text Simplicity 🦇*\\
-<u>CK Kreutz</u>, F Haak, B Engelmann, P Schaer\\
+<u>C Kreutz</u>, F Haak, B Engelmann, P Schaer\\
 ACL 2024 (Findings)\\
 [[pdf]](https://aclanthology.org/2024.findings-acl.712.pdf)
 [[code]](https://github.com/bjoernengelmann/BATS) [[dataset]](https://zenodo.org/records/11371690) [[slides]](../files/ACL24 BATS.pdf) [[poster]](../files/BATS_ACL-poster.pdf)
