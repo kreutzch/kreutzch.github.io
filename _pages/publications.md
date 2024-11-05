@@ -14,7 +14,7 @@ B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
 EMNLP 2024 (Findings)\\
 [[pdf]](..\files\ARTS.pdf) [[code]](https://github.com/irgroup/ARTS) [[dataset]](https://zenodo.org/records/13847807)
 - *SimIIR 3: A Framework for the Simulation of Interactive and Conversational Information Retrieval*\\
-L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang and S Zerhoudi\\
+L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
 SIGIR-AP 2024
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
