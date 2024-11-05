@@ -18,7 +18,8 @@ L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A P
 SIGIR-AP 2024
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
-JCDL 2024 (Poster)
+JCDL 2024 (Poster)\\
+[[extended preprint (Technical Report)]](https://arxiv.org/pdf/2410.22358)
 - *BATS: BenchmArking Text Simplicity 🦇*\\
 <u>C Kreutz</u>, F Haak, B Engelmann, P Schaer\\
 ACL 2024 (Findings)\\
