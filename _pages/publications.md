@@ -7,12 +7,14 @@ author_profile: True
 
 <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
 
+##### 2025
+- First International Workshop on Scholarly Information Access (SCOLIA)\\
+I Frommholz, P Mayr, G Cabanac, S Verberne, <u>CK Kreutz</u>\\
+ECIR 2025 (Workshop)\\
+[[webpage]](https://sites.google.com/view/bir-ws/scolia-2025)
+
 
 ##### 2024
-- *ARTS: Assessing Readability & Text Simplicity 🎨*\\
-B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
-EMNLP 2024 (Findings)\\
-[[pdf]](..\files\ARTS.pdf) [[code]](https://github.com/irgroup/ARTS) [[dataset]](https://zenodo.org/records/13847807)
 - *SimIIR 3: A Framework for the Simulation of Interactive and Conversational Information Retrieval*\\
 L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
 SIGIR-AP 2024
@@ -20,14 +22,18 @@ SIGIR-AP 2024
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
 JCDL 2024 (Poster)\\
 [[extended preprint (Technical Report)]](https://arxiv.org/pdf/2410.22358)
+- *ARTS: Assessing Readability & Text Simplicity 🎨*\\
+B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
+EMNLP 2024 (Findings): 14925-14942\\
+[[pdf]](https://aclanthology.org/2024.findings-emnlp.877.pdf) [[code]](https://github.com/irgroup/ARTS) [[dataset]](https://zenodo.org/records/13847807)
 - *BATS: BenchmArking Text Simplicity 🦇*\\
-<u>C Kreutz</u>, F Haak, B Engelmann, P Schaer\\
-ACL 2024 (Findings)\\
+<u>CK Kreutz</u>, F Haak, B Engelmann, P Schaer\\
+ACL 2024 (Findings): 11968–11989\\
 [[pdf]](https://aclanthology.org/2024.findings-acl.712.pdf)
 [[code]](https://github.com/bjoernengelmann/BATS) [[dataset]](https://zenodo.org/records/11371690) [[slides]](../files/ACL24 BATS.pdf) [[poster]](../files/BATS_ACL-poster.pdf)
 - *Investigating Bias in Political Search Query Suggestions by Relative Comparison with LLMs*\\
 F Haak, B Engelmann, <u>CK Kreutz</u>, P Schaer\\
-WebSci 2024 (Poster)\\
+WebSci 2024: 5-7 (Poster)\\
 [[pdf]](https://dl.acm.org/doi/10.1145/3630744.3658415)
 - *Evaluating Stability of Information Needs*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
@@ -35,7 +41,7 @@ BIR@ECIR 2024\\
 [[pdf]](https://drive.google.com/file/d/1y1lnYSjWAfcM4Euia6gZjxftikTj9lhn/view) [[dataset]](https://zenodo.org/records/10791641)
 - *SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA 2024)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, N Fuhr\\
-SIGIR 2024 (Workshop)\\
+SIGIR 2024: 3058-3061 (Workshop)\\
 [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657991) [[webpage]](https://sim4ia.org/sigir2024/)
 - *Report on the Workshop on Simulations for Information Access (Sim4IA 2024) at SIGIR 2024*\\
 T Breuer, <u>CK Kreutz</u>, N Fuhr, K Balog, P Schaer, N Bernard, I Frommholz, M Gohsen, K Ji, GJF Jones, J Keller, J Liu, M Mladenov, G Pasi, J Trippas, X Wang, S Zerhoudi, C Zhai\\
