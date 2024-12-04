@@ -18,7 +18,7 @@ redirect_from:
 
 * since 05.24: Research Associate
   * <a href="https://www.herder-institut.de/en/welcome/">Herder Institute for Historical Research on East Central Europe</a>
-  * *Digital Research and Information Infrastructures* team
+  * *Digital History and Information Systems* team
 
 * 05.22 -- 04.24: Research Associate/PostDoc for *Data and Information Science*
   * <a href="https://www.th-koeln.de/en/">TH Köln - University of Applied Sciences</a>

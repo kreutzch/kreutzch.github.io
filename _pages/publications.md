@@ -15,6 +15,9 @@ ECIR 2025 (Workshop)\\
 
 
 ##### 2024
+- *Building an Explainable Graph-based Biomedical Paper Recommendation System*\\
+H Kroll, <u>CK Kreutz</u>, BM Thang, P Schaer, W-T Balke\\
+AI4LAC@JCDL 2024
 - *SimIIR 3: A Framework for the Simulation of Interactive and Conversational Information Retrieval*\\
 L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
 SIGIR-AP 2024
@@ -34,7 +37,7 @@ ACL 2024 (Findings): 11968–11989\\
 - *Investigating Bias in Political Search Query Suggestions by Relative Comparison with LLMs*\\
 F Haak, B Engelmann, <u>CK Kreutz</u>, P Schaer\\
 WebSci 2024: 5-7 (Poster)\\
-[[pdf]](https://dl.acm.org/doi/10.1145/3630744.3658415)
+[[pdf]](https://dl.acm.org/doi/10.1145/3630744.3658415) [[preprint]](https://arxiv.org/pdf/2410.23879)
 - *Evaluating Stability of Information Needs*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
 BIR@ECIR 2024\\
