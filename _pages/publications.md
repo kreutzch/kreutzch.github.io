@@ -20,11 +20,16 @@ H Kroll, <u>CK Kreutz</u>, BM Thang, P Schaer, W-T Balke\\
 AI4LAC@JCDL 2024
 - *SimIIR 3: A Framework for the Simulation of Interactive and Conversational Information Retrieval*\\
 L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
-SIGIR-AP 2024
+SIGIR-AP 2024: 197 - 202\\
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3673791.3698427)
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
 JCDL 2024 (Poster)\\
-[[extended preprint (Technical Report)]](https://arxiv.org/pdf/2410.22358)
+[[extended preprint (technical report)]](https://arxiv.org/pdf/2410.22358)
+- *CIR at TREC 2024 RAG: Task 2 - Augmented Generation with Diversified Segments and Knowledge Adaption*\\
+J Keller, B Engelmann, F Haak, P Schaer, H Kroll, <u>CK Kreutz</u>\\
+TREC 2024 RAG\\
+[[technical report]](https://trec.nist.gov/act_part/conference/papers/CIR.rag.pdf)
 - *ARTS: Assessing Readability & Text Simplicity 🎨*\\
 B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
 EMNLP 2024 (Findings): 14925-14942\\
