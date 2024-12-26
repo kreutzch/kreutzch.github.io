@@ -22,7 +22,7 @@ AI4LAC@JCDL 2024\\
 [[code]](https://github.com/HermannKroll/NarrativeRecommender)
 - *SimIIR 3: A Framework for the Simulation of Interactive and Conversational Information Retrieval*\\
 L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
-SIGIR-AP 2024: 197 - 202\\
+SIGIR-AP 2024: 197-202\\
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3673791.3698427)
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
@@ -32,7 +32,8 @@ JCDL 2024 (Poster)\\
 - *CIR at TREC 2024 RAG: Task 2 - Augmented Generation with Diversified Segments and Knowledge Adaption*\\
 J Keller, B Engelmann, F Haak, P Schaer, H Kroll, <u>CK Kreutz</u>\\
 TREC 2024 RAG\\
-[[technical report]](https://trec.nist.gov/act_part/conference/papers/CIR.rag.pdf)
+[[technical report]](../files/TREC2024.pdf) 
+[[code]](https://github.com/irgroup/TREC2024-RAG-CIR)
 - *ARTS: Assessing Readability & Text Simplicity 🎨*\\
 B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
 EMNLP 2024 (Findings): 14925-14942\\
@@ -89,7 +90,8 @@ SimpleText@CLEF 2023: 2987-2998\\
 [[pdf]](https://ceur-ws.org/Vol-3497/paper-250.pdf) 
 [[preprint]](https://arxiv.org/pdf/2307.03569.pdf) 
 [[code (ChatGPT)]](https://colab.research.google.com/drive/10LyozPzxUlqFxHkXyfjxezO469c1ou9z?usp=sharing) 
-[[code (s2s models)]](https://colab.research.google.com/drive/1dI0rGH2mPMJ8OdsGnrqAz0HWQzfQCxK0?usp=sharing)
+[[code (s2s models)]](https://colab.research.google.com/drive/1dI0rGH2mPMJ8OdsGnrqAz0HWQzfQCxK0?usp=sharing) 
+[[slides]](../files/CLEF2023_Slides.pdf)
 - *Evaluating Digital Library Search Systems by using Formal Process Modelling*\\
 <u>CK Kreutz</u>, M Blum, P Schaer, R Schenkel, B Weyers\\
 JCDL 2023: 1-12\\
