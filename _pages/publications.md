@@ -17,7 +17,9 @@ ECIR 2025 (Workshop)\\
 ##### 2024
 - *Building an Explainable Graph-based Biomedical Paper Recommendation System*\\
 H Kroll, <u>CK Kreutz</u>, BM Thang, P Schaer, W-T Balke\\
-AI4LAC@JCDL 2024
+AI4LAC@JCDL 2024\\
+[[extended preprint (technical report)]](https://arxiv.org/abs/2412.15229) 
+[[code]](https://github.com/HermannKroll/NarrativeRecommender)
 - *SimIIR 3: A Framework for the Simulation of Interactive and Conversational Information Retrieval*\\
 L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
 SIGIR-AP 2024: 197 - 202\\
@@ -25,7 +27,8 @@ SIGIR-AP 2024: 197 - 202\\
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
 JCDL 2024 (Poster)\\
-[[extended preprint (technical report)]](https://arxiv.org/pdf/2410.22358)
+[[extended preprint (technical report)]](https://arxiv.org/pdf/2410.22358) 
+[[poster]](../files/JCDL2024_Poster.pdf)
 - *CIR at TREC 2024 RAG: Task 2 - Augmented Generation with Diversified Segments and Knowledge Adaption*\\
 J Keller, B Engelmann, F Haak, P Schaer, H Kroll, <u>CK Kreutz</u>\\
 TREC 2024 RAG\\
@@ -33,24 +36,33 @@ TREC 2024 RAG\\
 - *ARTS: Assessing Readability & Text Simplicity 🎨*\\
 B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
 EMNLP 2024 (Findings): 14925-14942\\
-[[pdf]](https://aclanthology.org/2024.findings-emnlp.877.pdf) [[code]](https://github.com/irgroup/ARTS) [[dataset]](https://zenodo.org/records/13847807)
+[[pdf]](https://aclanthology.org/2024.findings-emnlp.877.pdf) 
+[[code]](https://github.com/irgroup/ARTS) 
+[[dataset]](https://zenodo.org/records/13847807)
 - *BATS: BenchmArking Text Simplicity 🦇*\\
 <u>CK Kreutz</u>, F Haak, B Engelmann, P Schaer\\
 ACL 2024 (Findings): 11968–11989\\
 [[pdf]](https://aclanthology.org/2024.findings-acl.712.pdf)
-[[code]](https://github.com/bjoernengelmann/BATS) [[dataset]](https://zenodo.org/records/11371690) [[slides]](../files/ACL24 BATS.pdf) [[poster]](../files/BATS_ACL-poster.pdf)
+[[code]](https://github.com/bjoernengelmann/BATS) 
+[[dataset]](https://zenodo.org/records/11371690) 
+[[slides]](../files/ACL2024_Slides.pdf) 
+[[poster]](../files/ACL2024_Poster.pdf)
 - *Investigating Bias in Political Search Query Suggestions by Relative Comparison with LLMs*\\
 F Haak, B Engelmann, <u>CK Kreutz</u>, P Schaer\\
 WebSci 2024: 5-7 (Poster)\\
-[[pdf]](https://dl.acm.org/doi/10.1145/3630744.3658415) [[preprint]](https://arxiv.org/pdf/2410.23879)
+[[pdf]](https://dl.acm.org/doi/10.1145/3630744.3658415) 
+[[preprint]](https://arxiv.org/pdf/2410.23879)
 - *Evaluating Stability of Information Needs*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
 BIR@ECIR 2024\\
-[[pdf]](https://drive.google.com/file/d/1y1lnYSjWAfcM4Euia6gZjxftikTj9lhn/view) [[dataset]](https://zenodo.org/records/10791641)
+[[pdf]](https://drive.google.com/file/d/1y1lnYSjWAfcM4Euia6gZjxftikTj9lhn/view) 
+[[dataset]](https://zenodo.org/records/10791641)
+[[slides]](../files/BIR2024_Slides.pdf) 
 - *SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA 2024)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, N Fuhr\\
 SIGIR 2024: 3058-3061 (Workshop)\\
-[[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657991) [[webpage]](https://sim4ia.org/sigir2024/)
+[[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657991) 
+[[webpage]](https://sim4ia.org/sigir2024/)
 - *Report on the Workshop on Simulations for Information Access (Sim4IA 2024) at SIGIR 2024*\\
 T Breuer, <u>CK Kreutz</u>, N Fuhr, K Balog, P Schaer, N Bernard, I Frommholz, M Gohsen, K Ji, GJF Jones, J Keller, J Liu, M Mladenov, G Pasi, J Trippas, X Wang, S Zerhoudi, C Zhai\\
 [[preprint]](https://arxiv.org/pdf/2409.18024)
@@ -68,22 +80,23 @@ ACM SIGIR Forum 58(1), pages 1-12 (2024)\\
 - *Aspect-Driven Structuring of Historical Dutch Newspaper Archives*\\
 H Kroll, <u>CK Kreutz</u>, M Cuper, BM Thang, W-T Balke\\
 TPDL 2023: 31–46\\
-[[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43849-3_4)
-[[preprint]](https://arxiv.org/pdf/2307.09203.pdf)
+[[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43849-3_4) 
+[[preprint]](https://arxiv.org/pdf/2307.09203.pdf) 
 [[code]](https://github.com/HermannKroll/AspectDrivenNewsStructuring)
 - *Text Simplification of Scientific Texts for Non-Expert Readers*\\
 B Engelmann, F Haak, <u>CK Kreutz</u>, N Nikzad Khasmakhi, P Schaer\\
 SimpleText@CLEF 2023: 2987-2998\\
-[[pdf]](https://ceur-ws.org/Vol-3497/paper-250.pdf)
-[[preprint]](https://arxiv.org/pdf/2307.03569.pdf)
-[[code (ChatGPT)]](https://colab.research.google.com/drive/10LyozPzxUlqFxHkXyfjxezO469c1ou9z?usp=sharing)
+[[pdf]](https://ceur-ws.org/Vol-3497/paper-250.pdf) 
+[[preprint]](https://arxiv.org/pdf/2307.03569.pdf) 
+[[code (ChatGPT)]](https://colab.research.google.com/drive/10LyozPzxUlqFxHkXyfjxezO469c1ou9z?usp=sharing) 
 [[code (s2s models)]](https://colab.research.google.com/drive/1dI0rGH2mPMJ8OdsGnrqAz0HWQzfQCxK0?usp=sharing)
 - *Evaluating Digital Library Search Systems by using Formal Process Modelling*\\
 <u>CK Kreutz</u>, M Blum, P Schaer, R Schenkel, B Weyers\\
 JCDL 2023: 1-12\\
-[[pdf]](https://ieeexplore.ieee.org/document/10265884)
+[[pdf]](https://ieeexplore.ieee.org/document/10265884) 
 [[preprint]](https://arxiv.org/pdf/2304.11651.pdf) 
-[[dataset]](https://zenodo.org/record/7826530#.ZEzaXy9n5hE)
+[[dataset]](https://zenodo.org/record/7826530#.ZEzaXy9n5hE) 
+[[slides]](../files/JCDL2023_Slides.pdf)
 - *Enriching Simple Keyword Queries for Domain-Aware Narrative Retrieval*\\
 H Kroll, <u>CK Kreutz</u>, P Sackhoff, W-T Balke\\
 JCDL 2023: 143-154\\
@@ -100,7 +113,7 @@ JCDL 2023: 107-118\\
 JCDL 2023: 276-278 (Poster)\\
 [[pdf]](https://ieeexplore.ieee.org/document/10266230)
 [[preprint]](https://arxiv.org/pdf/2304.11656.pdf) 
-[[poster]](../files/JCDL_Poster.pdf)
+[[poster]](../files/JCDL2023_Poster.pdf)
 - *RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 <u>CK Kreutz</u>, R Schenkel\\
 Journal of Data Intelligence 4(1&2), pages 101-133 (2023)\\
