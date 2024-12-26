@@ -8,7 +8,7 @@ author_profile: True
 <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
 
 ##### 2025
-- First International Workshop on Scholarly Information Access (SCOLIA)\\
+- *First International Workshop on Scholarly Information Access (SCOLIA)*\\
 I Frommholz, P Mayr, G Cabanac, S Verberne, <u>CK Kreutz</u>\\
 ECIR 2025 (Workshop)\\
 [[webpage]](https://sites.google.com/view/bir-ws/scolia-2025)
