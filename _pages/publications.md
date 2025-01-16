@@ -66,6 +66,8 @@ SIGIR 2024: 3058-3061 (Workshop)\\
 [[webpage]](https://sim4ia.org/sigir2024/)
 - *Report on the Workshop on Simulations for Information Access (Sim4IA 2024) at SIGIR 2024*\\
 T Breuer, <u>CK Kreutz</u>, N Fuhr, K Balog, P Schaer, N Bernard, I Frommholz, M Gohsen, K Ji, GJF Jones, J Keller, J Liu, M Mladenov, G Pasi, J Trippas, X Wang, S Zerhoudi, C Zhai\\
+ACM SIGIR Forum 58(2), pages 1-14 (2024)\\
+[[pdf]](https://sigir.org/wp-content/uploads/2025/01/p11.pdf) 
 [[preprint]](https://arxiv.org/pdf/2409.18024)
 - *Report on the Collab-a-Thon at ECIR 2024*\\
 S MacAvaney, A Roegiest, A Lipani, A Parry, B Engelmann, <u>CK Kreutz</u>, C Meng, E Frayling, E Yang, F Schlatt, G Faggioli, H Scells, I Atanassova, J Friese, J Bevendorff, J Sanz-Cruzado, J Trippas, K Pathak, K Dhole, L Azzopardi, M Fröbe, M Bertin, N Prasad, S Zerhoudi, S Wang, S Chatterjee, T Jaenich, U Kruschwitz, X Wang, Z Lon\\
