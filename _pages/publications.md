@@ -8,6 +8,12 @@ author_profile: True
 <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
 
 ##### 2025
+
+- *SIGIR 2025 Second Workshop on Simulations for Information Access (Sim4IA 2025)*\\
+P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, A Kruff\\
+SIGIR 2025 (Workshop)\\
+[[webpage]](https://sim4ia.org/sigir2025/)
+
 - *First International Workshop on Scholarly Information Access (SCOLIA)*\\
 I Frommholz, P Mayr, G Cabanac, S Verberne, <u>CK Kreutz</u>\\
 ECIR 2025 (Workshop)\\
