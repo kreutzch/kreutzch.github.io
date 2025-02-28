@@ -8,8 +8,11 @@ author_profile: True
 <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
 
 ##### 2025
+- *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
+<u>CK Kreutz</u>, H Kroll\\
+TPDL 2025 (Workshop)
 
-- *SIGIR 2025 Second Workshop on Simulations for Information Access (Sim4IA 2025)*\\
+- *Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, A Kruff\\
 SIGIR 2025 (Workshop)\\
 [[webpage]](https://sim4ia.org/sigir2025/)
