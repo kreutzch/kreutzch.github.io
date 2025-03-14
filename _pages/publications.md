@@ -10,7 +10,8 @@ author_profile: True
 ##### 2025
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
-TPDL 2025 (Workshop)
+TPDL 2025 (Workshop)\\
+[[webpage]](https://ws-birds.github.io/birds2025.github.io/)
 
 - *Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, A Kruff\\
@@ -37,12 +38,13 @@ SIGIR-AP 2024: 197-202\\
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
 JCDL 2024 (Poster)\\
+[[pdf]](https://dl.acm.org/doi/10.1145/3677389.3702502) 
 [[extended preprint (technical report)]](https://arxiv.org/pdf/2410.22358) 
 [[poster]](../files/JCDL2024_Poster.pdf)
 - *CIR at TREC 2024 RAG: Task 2 - Augmented Generation with Diversified Segments and Knowledge Adaption*\\
 J Keller, B Engelmann, F Haak, P Schaer, H Kroll, <u>CK Kreutz</u>\\
 TREC 2024 RAG\\
-[[technical report]](../files/TREC2024.pdf) 
+[[technical report]](https://trec.nist.gov/pubs/trec33/papers/CIR.rag.pdf) 
 [[code]](https://github.com/irgroup/TREC2024-RAG-CIR)
 - *ARTS: Assessing Readability & Text Simplicity 🎨*\\
 B Engelmann, <u>CK Kreutz</u>, F Haak, P Schaer\\
