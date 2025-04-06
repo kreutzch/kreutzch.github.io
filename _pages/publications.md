@@ -20,7 +20,8 @@ SIGIR 2025 (Workshop)\\
 
 - *First International Workshop on Scholarly Information Access (SCOLIA)*\\
 I Frommholz, P Mayr, G Cabanac, S Verberne, <u>CK Kreutz</u>\\
-ECIR 2025 (Workshop)\\
+ECIR 2025: 326–331 (Workshop)\\
+[[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_50)
 [[webpage]](https://sites.google.com/view/bir-ws/scolia-2025)
 
 
@@ -37,7 +38,7 @@ SIGIR-AP 2024: 197-202\\
 [[code]](https://github.com/leifos/simiir-3)
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
-JCDL 2024 (Poster)\\
+JCDL 2024: 68, 1-3 (Poster)\\
 [[pdf]](https://dl.acm.org/doi/10.1145/3677389.3702502) 
 [[extended preprint (technical report)]](https://arxiv.org/pdf/2410.22358) 
 [[poster]](../files/JCDL2024_Poster.pdf)
@@ -78,16 +79,16 @@ SIGIR 2024: 3058-3061 (Workshop)\\
 [[webpage]](https://sim4ia.org/sigir2024/)
 - *Report on the Workshop on Simulations for Information Access (Sim4IA 2024) at SIGIR 2024*\\
 T Breuer, <u>CK Kreutz</u>, N Fuhr, K Balog, P Schaer, N Bernard, I Frommholz, M Gohsen, K Ji, GJF Jones, J Keller, J Liu, M Mladenov, G Pasi, J Trippas, X Wang, S Zerhoudi, C Zhai\\
-ACM SIGIR Forum 58(2), pages 1-14 (2024)\\
+ACM SIGIR Forum 58(2): 1-14 (2024)\\
 [[pdf]](https://sigir.org/wp-content/uploads/2025/01/p11.pdf) 
 [[preprint]](https://arxiv.org/pdf/2409.18024)
 - *Report on the Collab-a-Thon at ECIR 2024*\\
 S MacAvaney, A Roegiest, A Lipani, A Parry, B Engelmann, <u>CK Kreutz</u>, C Meng, E Frayling, E Yang, F Schlatt, G Faggioli, H Scells, I Atanassova, J Friese, J Bevendorff, J Sanz-Cruzado, J Trippas, K Pathak, K Dhole, L Azzopardi, M Fröbe, M Bertin, N Prasad, S Zerhoudi, S Wang, S Chatterjee, T Jaenich, U Kruschwitz, X Wang, Z Lon\\
-ACM SIGIR Forum 58(1), pages 1-11 (2024)\\
+ACM SIGIR Forum 58(1): 1-11 (2024)\\
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3687273.3687287)
 - *Report on the 8th Workshop on Search-Oriented Conversational Artificial Intelligence (SCAI 2024) at CHIIR 2024*\\
 A Frummet, A Papenmeier, M Fröbe, J Kiesel, V Adlakha, N Braunschweiler, M Dubiel, S Ghosh, M Gohsen, <u>C Kreutz</u>, M Momeni, M Nilles, SP Cherumanal, A Pirmoradi, P Thomas, JR Trippas, I Zelch, O Zendel\\
-ACM SIGIR Forum 58(1), pages 1-12 (2024)\\
+ACM SIGIR Forum 58(1): 1-12 (2024)\\
 [[pdf]](https://downloads.webis.de/publications/papers/frummet_2024b.pdf)
 
 ##### 2023
@@ -132,13 +133,13 @@ JCDL 2023: 276-278 (Poster)\\
 [[poster]](../files/JCDL2023_Poster.pdf)
 - *RevASIDE: Evaluation of Assignments of Suitable Reviewer Sets for Publications from Fixed Candidate Pools*\\
 <u>CK Kreutz</u>, R Schenkel\\
-Journal of Data Intelligence 4(1&2), pages 101-133 (2023)\\
+Journal of Data Intelligence 4(1&2): 101-133 (2023)\\
 [[pdf]](https://www.rintonpress.com/xjdi4/xjdi4-12/101-133.pdf)
 
 ##### 2022
 - *Scientific Paper Recommendation Systems: a Literature Review of recent Publications*\\
 <u>CK Kreutz</u>, R Schenkel\\
-IJDL 23(4), pages 335-369 (2022)\\
+IJDL 23(4): 335-369 (2022)\\
 [[pdf]](https://link.springer.com/content/pdf/10.1007/s00799-022-00339-w.pdf) 
 [[preprint]](https://arxiv.org/pdf/2201.00682.pdf)
 - *SchenQL: A query language for bibliographic data with aggregations and domain-specific functions*\\
@@ -150,7 +151,7 @@ JCDL 2022: 37:1-37:5 (Demo)\\
 [[minute madness]](https://youtu.be/8Y11qdD-Ymc)
 - *SchenQL: In-Depth Analysis of a Query Language for Bibliographic Metadata*\\
 <u>CK Kreutz</u>, M Wolz, J Knack, B Weyers, R Schenkel\\
-IJDL 23(2), pages 113–132 (2022)\\
+IJDL 23(2): 113–132 (2022)\\
 [[pdf]](https://link.springer.com/content/pdf/10.1007/s00799-021-00317-8.pdf)
 
 ##### 2021
