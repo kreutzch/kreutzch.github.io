@@ -35,7 +35,7 @@ AI4LAC@JCDL 2024\\
 L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
 SIGIR-AP 2024: 197-202\\
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3673791.3698427)
-[[code]](https://github.com/leifos/simiir-3)
+[[code]](https://github.com/simint-ai/simiir-3)
 - *Requirements for a Digital Library System: A Case Study in Digital Humanities*\\
 H Kroll, <u>CK Kreutz</u>, M Jehn, T Risse\\
 JCDL 2024: 68, 1-3 (Poster)\\
