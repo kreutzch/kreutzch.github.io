@@ -8,13 +8,17 @@ author_profile: True
 <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
 
 ##### 2025
+- *Data Discovery using LLMs - A Study of Data User Behaviour*\\
+<u>CK Kreutz</u>, A Perry, T Friedrich\\
+TPDL 2025 
+
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
 TPDL 2025 (Workshop)\\
 [[webpage]](https://ws-birds.github.io/birds2025.github.io/)
 
 - *Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025)*\\
-P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, A Kruff\\
+P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, AK Kruff\\
 SIGIR 2025 (Workshop)\\
 [[preprint]](https://arxiv.org/abs/2505.11687)
 [[webpage]](https://sim4ia.org/sigir2025/)
