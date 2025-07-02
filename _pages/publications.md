@@ -8,9 +8,14 @@ author_profile: True
 <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
 
 ##### 2025
+- *THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts*\\
+N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>\\
+SimpleText@CLEF 2025
+
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
-TPDL 2025 
+TPDL 2025 \\
+[[data]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529) [[IASSIST abstract]](https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48) [[IASSIST slides]](https://zenodo.org/records/15687476)
 
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
@@ -36,6 +41,7 @@ H Kroll, <u>CK Kreutz</u>, BM Thang, P Schaer, W-T Balke\\
 AI4LAC@JCDL 2024\\
 [[extended preprint (technical report)]](https://arxiv.org/abs/2412.15229) 
 [[code]](https://github.com/HermannKroll/NarrativeRecommender)
+[[slides]](https://www.hkroll.de/presentation/2024_12_JCDL2024AI4LAC%20Graph-based%20Paper%20Recommendation.pdf)
 - *SimIIR 3: A Framework for the Simulation of Interactive and Conversational Information Retrieval*\\
 L Azzopardi, T Breuer, B Engelmann, <u>C Kreutz</u>, S MacAvaney, D Maxwell, A Parry, A Roegiest, X Wang, S Zerhoudi\\
 SIGIR-AP 2024: 197-202\\
@@ -103,7 +109,11 @@ H Kroll, <u>CK Kreutz</u>, M Cuper, BM Thang, W-T Balke\\
 TPDL 2023: 31–46\\
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43849-3_4) 
 [[preprint]](https://arxiv.org/pdf/2307.09203.pdf) 
-[[code]](https://github.com/HermannKroll/AspectDrivenNewsStructuring)
+[[code]](https://github.com/HermannKroll/AspectDrivenNewsStructuring) 
+[[slides]](https://www.hkroll.de/presentation/2023_09_TPDL2023-Aspect-Driven%20News%20Structuring.pdf)
+[[wikiworkshop pdf]](https://www.hkroll.de/pdf/WikiWorkshop2024_AspectDrivenStructuring.pdf)
+[[wikiworkshop presentation]](https://www.youtube.com/watch?v=P6kJVeVr99A)
+[[wikiworkshop slided]](https://www.hkroll.de/presentation/2024_06_WikiWorkshop2024-Aspect-DrivenNewsStructuring.pdf)
 - *Text Simplification of Scientific Texts for Non-Expert Readers*\\
 B Engelmann, F Haak, <u>CK Kreutz</u>, N Nikzad Khasmakhi, P Schaer\\
 SimpleText@CLEF 2023: 2987-2998\\
@@ -125,6 +135,7 @@ JCDL 2023: 143-154\\
 [[pdf]](https://ieeexplore.ieee.org/document/10266304)
 [[preprint]](https://arxiv.org/pdf/2304.07604.pdf)
 [[presentation]](https://youtu.be/FxkrcI7DROs)
+[[slides]](https://www.hkroll.de/presentation/2023_06_28_JCDL2023-Domain-Aware%20Narrative%20Retrieval.pdf)
 - *Bibliometric Data Fusion for Biomedical Information Retrieval*\\
 T Breuer, <u>CK Kreutz</u>, P Schaer, D Tunger\\
 JCDL 2023: 107-118\\
