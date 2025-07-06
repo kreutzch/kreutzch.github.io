@@ -15,6 +15,7 @@ SimpleText@CLEF 2025
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
 TPDL 2025 \\
+[[code]](https://github.com/kreutzch/TPDL25_DataDiscoveryUsingLLMs) 
 [[data]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529) [[IASSIST abstract]](https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48) [[IASSIST slides]](https://zenodo.org/records/15687476)
 
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
