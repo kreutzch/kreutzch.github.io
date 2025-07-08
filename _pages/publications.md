@@ -10,11 +10,14 @@ author_profile: True
 ##### 2025
 - *THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts*\\
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>\\
-SimpleText@CLEF 2025
+SimpleText@CLEF 2025\\
+[[preprint]](https://arxiv.org/abs/2507.04414)
+[[code]](https://github.com/kreutzch/THM-SimpleText-25)
 
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
 TPDL 2025 \\
+[[preprint]](https://arxiv.org/abs/2507.04444)
 [[code]](https://github.com/kreutzch/TPDL25_DataDiscoveryUsingLLMs) 
 [[data]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529) [[IASSIST abstract]](https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48) [[IASSIST slides]](https://zenodo.org/records/15687476)
 
