@@ -13,31 +13,28 @@ N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>\\
 SimpleText@CLEF 2025\\
 [[preprint]](https://arxiv.org/abs/2507.04414)
 [[code]](https://github.com/kreutzch/THM-SimpleText-25)
-
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
 TPDL 2025 \\
 [[preprint]](https://arxiv.org/abs/2507.04444)
 [[code]](https://github.com/kreutzch/TPDL25_DataDiscoveryUsingLLMs) 
-[[data]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529) [[IASSIST abstract]](https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48) [[IASSIST slides]](https://zenodo.org/records/15687476)
-
+[[dataset]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529)
+[[IASSIST abstract]](https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48)
+[[IASSIST slides]](https://zenodo.org/records/15687476)
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
 TPDL 2025 (Workshop)\\
 [[webpage]](https://ws-birds.github.io/birds2025.github.io/)
-
 - *Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, AK Kruff\\
 SIGIR 2025 (Workshop)\\
 [[preprint]](https://arxiv.org/abs/2505.11687)
 [[webpage]](https://sim4ia.org/sigir2025/)
-
 - *First International Workshop on Scholarly Information Access (SCOLIA)*\\
 I Frommholz, P Mayr, G Cabanac, S Verberne, <u>CK Kreutz</u>\\
 ECIR 2025: 326–331 (Workshop)\\
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_50)
 [[webpage]](https://sites.google.com/view/bir-ws/scolia-2025)
-
 
 ##### 2024
 - *Building an Explainable Graph-based Biomedical Paper Recommendation System*\\
@@ -84,7 +81,7 @@ WebSci 2024: 5-7 (Poster)\\
 - *Evaluating Stability of Information Needs*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
 BIR@ECIR 2024\\
-[[pdf]](https://drive.google.com/file/d/1y1lnYSjWAfcM4Euia6gZjxftikTj9lhn/view) 
+[[pdf]](https://ceur-ws.org/Vol-3989/paper-02.pdf) 
 [[dataset]](https://zenodo.org/records/10791641)
 [[slides]](../files/BIR2024_Slides.pdf) 
 - *SIGIR 2024 Workshop on Simulations for Information Access (Sim4IA 2024)*\\
