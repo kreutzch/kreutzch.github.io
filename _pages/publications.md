@@ -28,6 +28,7 @@ TPDL 2025 (Workshop)\\
 - *Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, AK Kruff\\
 SIGIR 2025 (Workshop)\\
+[[pdf]](https://dl.acm.org/doi/10.1145/3726302.3730363) 
 [[preprint]](https://arxiv.org/abs/2505.11687)
 [[webpage]](https://sim4ia.org/sigir2025/)
 - *First International Workshop on Scholarly Information Access (SCOLIA)*\\
