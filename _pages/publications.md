@@ -21,6 +21,9 @@ TPDL 2025 \\
 [[dataset]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529)
 [[IASSIST abstract]](https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48)
 [[IASSIST slides]](https://zenodo.org/records/15687476)
+- *Demonstrating Narrative Pattern Discovery from Biomedical Literature*\\
+H Kroll, P Sackhoff, BM Thang, <u>CK Kreutz</u>, W-T Balke\\
+TPDL 25 (Demo)
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
 TPDL 2025 (Workshop)\\
