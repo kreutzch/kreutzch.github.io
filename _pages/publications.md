@@ -13,6 +13,7 @@ N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>\\
 SimpleText@CLEF 2025\\
 [[preprint]](https://arxiv.org/abs/2507.04414)
 [[code]](https://github.com/kreutzch/THM-SimpleText-25)
+[[slides]](../files/CLEF2025_Slides.pdf)
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
 TPDL 2025 \\
@@ -23,7 +24,8 @@ TPDL 2025 \\
 [[IASSIST slides]](https://zenodo.org/records/15687476)
 - *Demonstrating Narrative Pattern Discovery from Biomedical Literature*\\
 H Kroll, P Sackhoff, BM Thang, <u>CK Kreutz</u>, W-T Balke\\
-TPDL 25 (Demo)
+TPDL 25 (Demo)\\
+[[preprint]](https://arxiv.org/abs/2509.09687)
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
 TPDL 2025 (Workshop)\\
