@@ -11,6 +11,7 @@ author_profile: True
 - *THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts*\\
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>\\
 SimpleText@CLEF 2025\\
+[[paper]](https://ceur-ws.org/Vol-4038/paper_352.pdf)
 [[preprint]](https://arxiv.org/abs/2507.04414)
 [[code]](https://github.com/kreutzch/THM-SimpleText-25)
 [[slides]](../files/SimpleText2025_Slides.pdf)
