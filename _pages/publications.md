@@ -17,9 +17,11 @@ SimpleText@CLEF 2025\\
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
 TPDL 2025 \\
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-05409-8_3)
 [[preprint]](https://arxiv.org/abs/2507.04444)
 [[code]](https://github.com/kreutzch/TPDL25_DataDiscoveryUsingLLMs) 
 [[dataset]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529)
+[[slides]](../files/TPDL2025_Slides.pdf)
 [[IASSIST abstract]](https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48)
 [[IASSIST slides]](https://zenodo.org/records/15687476)
 - *Demonstrating Narrative Pattern Discovery from Biomedical Literature*\\
