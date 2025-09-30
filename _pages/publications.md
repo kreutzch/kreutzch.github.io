@@ -28,8 +28,10 @@ TPDL 2025 \\
 - *Demonstrating Narrative Pattern Discovery from Biomedical Literature*\\
 H Kroll, P Sackhoff, BM Thang, <u>CK Kreutz</u>, W-T Balke\\
 TPDL 25 (Demo)\\
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-06136-2_25)
 [[preprint]](https://arxiv.org/abs/2509.09687)
 [[poster]](../files/TPDL2025_Demo.pdf)
+[[code]](https://github.com/HermannKroll/NarrativeIntelligence)
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
 TPDL 2025 (Workshop)\\
