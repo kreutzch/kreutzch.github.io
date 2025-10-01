@@ -17,7 +17,7 @@ SimpleText@CLEF 2025\\
 [[slides]](../files/SimpleText2025_Slides.pdf)
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
-TPDL 2025 \\
+TPDL 2025: 17–35\\
 [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-05409-8_3)
 [[preprint]](https://arxiv.org/abs/2507.04444)
 [[code]](https://github.com/kreutzch/TPDL25_DataDiscoveryUsingLLMs) 
@@ -27,7 +27,7 @@ TPDL 2025 \\
 [[IASSIST slides]](https://zenodo.org/records/15687476)
 - *Demonstrating Narrative Pattern Discovery from Biomedical Literature*\\
 H Kroll, P Sackhoff, BM Thang, <u>CK Kreutz</u>, W-T Balke\\
-TPDL 25 (Demo)\\
+TPDL 25: 258–266 (Demo)\\
 [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-06136-2_25)
 [[preprint]](https://arxiv.org/abs/2509.09687)
 [[poster]](../files/TPDL2025_Demo.pdf)
@@ -35,10 +35,11 @@ TPDL 25 (Demo)\\
 - *First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025)*\\
 <u>CK Kreutz</u>, H Kroll\\
 TPDL 2025 (Workshop)\\
+[[preprint]](https://arxiv.org/abs/2509.26001)
 [[webpage]](https://ws-birds.github.io/birds2025.github.io/)
 - *Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025)*\\
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, AK Kruff\\
-SIGIR 2025 (Workshop)\\
+SIGIR 2025: 4172-4175 (Workshop)\\
 [[pdf]](https://dl.acm.org/doi/10.1145/3726302.3730363) 
 [[preprint]](https://arxiv.org/abs/2505.11687)
 [[webpage]](https://sim4ia.org/sigir2025/)
