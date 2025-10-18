@@ -10,7 +10,8 @@ author_profile: True
 ##### 2026
 - *The Second Workshop on Scholarly Information Access (SCOLIA 2026)*\\
 I Frommholz, <u>CK Kreutz</u>, P Mayr, G Cabanac\\
-ECIR 2026 (Workshop)\\
+ECIR 2026 (Workshop)
+
 
 ##### 2025
 - *THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts*\\
