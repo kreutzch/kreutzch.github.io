@@ -7,18 +7,23 @@ author_profile: True
 
 <a href="https://dblp.org/pid/k/ck">[dblp]</a> <a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
 
+##### 2026
+- *The Second Workshop on Scholarly Information Access (SCOLIA 2026)*\\
+I Frommholz, <u>CK Kreutz</u>, P Mayr, G Cabanac\\
+ECIR 2026 (Workshop)\\
+
 ##### 2025
 - *THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts*\\
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>\\
-SimpleText@CLEF 2025\\
-[[paper]](https://ceur-ws.org/Vol-4038/paper_352.pdf)
+SimpleText@CLEF 2025: 4276-4285\\
+[[pdf]](https://ceur-ws.org/Vol-4038/paper_352.pdf)
 [[preprint]](https://arxiv.org/abs/2507.04414)
 [[code]](https://github.com/kreutzch/THM-SimpleText-25)
 [[slides]](../files/SimpleText2025_Slides.pdf)
 - *Data Discovery using LLMs - A Study of Data User Behaviour*\\
 <u>CK Kreutz</u>, A Perry, T Friedrich\\
 TPDL 2025: 17–35\\
-[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-05409-8_3)
+[[pdf]](https://link.springer.com/chapter/10.1007/978-3-032-05409-8_3)
 [[preprint]](https://arxiv.org/abs/2507.04444)
 [[code]](https://github.com/kreutzch/TPDL25_DataDiscoveryUsingLLMs) 
 [[dataset]](https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529)
@@ -28,7 +33,7 @@ TPDL 2025: 17–35\\
 - *Demonstrating Narrative Pattern Discovery from Biomedical Literature*\\
 H Kroll, P Sackhoff, BM Thang, <u>CK Kreutz</u>, W-T Balke\\
 TPDL 25: 258–266 (Demo)\\
-[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-06136-2_25)
+[[pdf]](https://link.springer.com/chapter/10.1007/978-3-032-06136-2_25)
 [[preprint]](https://arxiv.org/abs/2509.09687)
 [[poster]](../files/TPDL2025_Demo.pdf)
 [[code]](https://github.com/HermannKroll/NarrativeIntelligence)
@@ -93,7 +98,7 @@ WebSci 2024: 5-7 (Poster)\\
 [[preprint]](https://arxiv.org/pdf/2410.23879)
 - *Evaluating Stability of Information Needs*\\
 <u>CK Kreutz</u>, P Schaer, R Schenkel\\
-BIR@ECIR 2024\\
+BIR@ECIR 2024: 15-29\\
 [[pdf]](https://ceur-ws.org/Vol-3989/paper-02.pdf) 
 [[dataset]](https://zenodo.org/records/10791641)
 [[slides]](../files/BIR2024_Slides.pdf) 
