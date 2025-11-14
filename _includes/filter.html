@@ -1,0 +1,75 @@
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const cats = document.querySelectorAll("#category-filter .cat");
+        const pubs = document.querySelectorAll(".pub-item");
+        const pubLists = document.querySelectorAll(".pub-list");
+        let activeFilter = "all";
+
+        function updateFilter(selected) {
+            activeFilter = selected;
+            let visibleCount = 0;
+
+            // Update button states
+            cats.forEach(cat => {
+                if (cat.getAttribute("category") === selected) {
+                    cat.classList.add("active");
+                } else {
+                    cat.classList.remove("active");
+                }
+            });
+
+            // Filter publications
+            pubs.forEach(pub => {
+                const pubCats = pub.getAttribute("paper_categories").split(" ");
+                const shouldShow = selected === "all" || pubCats.includes(selected);
+                
+                if (shouldShow) {
+                    pub.style.display = "";
+                    pub.classList.add("fade-in");
+                    visibleCount++;
+                } else {
+                    pub.style.display = "none";
+                    pub.classList.remove("fade-in", "highlight");
+                }
+            });
+
+            // Hide/show year sections if empty
+            pubLists.forEach(list => {
+                const visiblePubs = Array.from(list.querySelectorAll(".pub-item")).filter(
+                    pub => pub.style.display !== "none"
+                );
+                // Find the year heading (h5) that precedes this list
+                let yearHeading = list.previousElementSibling;
+                while (yearHeading && !yearHeading.matches('h5')) {
+                    yearHeading = yearHeading.previousElementSibling;
+                }
+                
+                if (visiblePubs.length === 0) {
+                    if (yearHeading) yearHeading.style.display = "none";
+                    list.style.display = "none";
+                } else {
+                    if (yearHeading) yearHeading.style.display = "";
+                    list.style.display = "";
+                }
+            });
+
+            // Update result count (optional - you can remove this if you don't want it)
+            const countElement = document.getElementById("filter-count");
+            if (countElement) {
+                countElement.textContent = selected === "all" 
+                    ? `Showing all ${pubs.length} publications` 
+                    : `Showing ${visibleCount} of ${pubs.length} publications`;
+            }
+        }
+
+        cats.forEach(cat => {
+            cat.addEventListener("click", () => {
+                const selected = cat.getAttribute("category");
+                updateFilter(selected);
+            });
+        });
+
+        // Initialize with "all" selected
+        updateFilter("all");
+    });
+</script>

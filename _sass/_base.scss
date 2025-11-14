@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   padding: $masthead-height 0 0;
-  padding-bottom: 9em;
+  padding-bottom: 4em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -309,7 +309,7 @@ nav {
    Global animation transition
    ========================================================================== */
 
-b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
+b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight {
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }

@@ -11,7 +11,7 @@ locale                   : "de-GER"
 title                    : "Christin K. Kreutz"
 title_separator          : "-"
 name                     : &name "Christin Katharina Kreutz"
-description              : &description "personal description"
+description              : &description "personal website"
 url                      : https://kreutzch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kreutzch/kreutzch.github.io" #
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=dEIZFJUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dEIZFJUAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-5075-7699"
   semantic         : # URL
@@ -140,7 +140,6 @@ analytics:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
   - files
 exclude:
