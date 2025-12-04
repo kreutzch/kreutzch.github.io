@@ -6,9 +6,9 @@ author_profile: True
 ---
 
 <div>
-<a href="https://dblp.org/pid/k/ck">[dblp]</a> 
-<a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ">[Google Scholar]</a> 
-<a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484">[Semantic Scholar]</a>
+<a href="https://dblp.org/pid/k/ck" target="_blank">[dblp]</a> 
+<a href="https://scholar.google.de/citations?user=dEIZFJUAAAAJ" target="_blank">[Google Scholar]</a> 
+<a href="https://www.semanticscholar.org/author/Christin-Katharina-Kreutz/46351484" target="_blank">[Semantic Scholar]</a>
 </div>
 
 <div id="category-filter">
@@ -43,7 +43,7 @@ AK Kruff, <u>CK Kreutz</u>, T Breuer, P Schaer, K Balog
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
 SimpleText@CLEF 2025: 4276-4285 
 <a href="https://ceur-ws.org/Vol-4038/paper_352.pdf" target="_blank">[paper]</a>
-<a href="https://arxiv.org/abs/2507.04414" target="_blank">[preprint]</a>
+<a href="https://arxiv.org/pdf/2507.04414" target="_blank">[preprint]</a>
 <a href="https://github.com/kreutzch/THM-SimpleText-25" target="_blank">[code]</a>
 <a href="../files/SimpleText2025_Slides.pdf" target="_blank">[slides]</a>
 </li>
@@ -51,32 +51,31 @@ SimpleText@CLEF 2025: 4276-4285
 <u>CK Kreutz</u>, A Perry, T Friedrich;
 TPDL 2025: 17–35
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-05409-8_3" target="_blank">[paper]</a>
-<a href="https://arxiv.org/abs/2507.04444" target="_blank">[preprint]</a>
+<a href="https://arxiv.org/pdf/2507.04444" target="_blank">[preprint]</a>
 <a href="https://github.com/kreutzch/TPDL25_DataDiscoveryUsingLLMs" target="_blank">[code]</a>
 <a href="https://search.gesis.org/research_data/ZA8800?doi=10.4232/1.14529" target="_blank">[data]</a>
 <a href="../files/TPDL2025_Slides.pdf" target="_blank">[slides]</a>
-<a href="https://www.openconf.org/iassist2025/modules/request.php?module=oc_program&action=summary.php&id=48" target="_blank">[IASSIST abstract]</a>
 <a href="https://zenodo.org/records/15687476" target="_blank">[IASSIST slides]</a>
 </li>
 <li class="pub-item" paper_categories="DL"><i>Demonstrating Narrative Pattern Discovery from Biomedical Literature.</i>
 H Kroll, P Sackhoff, BM Thang, <u>CK Kreutz</u>, W-T Balke;
 TPDL 25: 258–266 (Demo)
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-06136-2_25" target="_blank">[paper]</a>
-<a href="https://arxiv.org/abs/2509.09687" target="_blank">[preprint]</a>
+<a href="https://arxiv.org/pdf/2509.09687" target="_blank">[preprint]</a>
 <a href="../files/TPDL2025_Demo.pdf" target="_blank">[poster]</a>
 <a href="https://github.com/HermannKroll/NarrativeIntelligence" target="_blank">[code]</a>
 </li>
 <li class="pub-item" paper_categories="DL UB"><i>First Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025).</i>
 <u>CK Kreutz</u>, H Kroll;
 TPDL 2025 (Workshop)
-<a href="(https://arxiv.org/abs/2509.26001" target="_blank">[preprint]</a>
+<a href="https://arxiv.org/pdf/2509.26001" target="_blank">[preprint]</a>
 <a href="https://ws-birds.github.io/birds2025.github.io/" target="_blank">[webpage]</a>
 </li>
 <li class="pub-item" paper_categories="SIM IR"><i>Second SIGIR Workshop on Simulations for Information Access (Sim4IA 2025).</i>
 P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, AK Kruff;
 SIGIR 2025: 4172-4175 (Workshop)
 <a href="https://dl.acm.org/doi/10.1145/3726302.3730363" target="_blank">[paper]</a>
-<a href="https://arxiv.org/abs/2505.11687" target="_blank">[preprint]</a>
+<a href="https://arxiv.org/pdf/2505.11687" target="_blank">[preprint]</a>
 <a href="https://sim4ia.org/sigir2025/" target="_blank">[webpage]</a>
 </li>
 <li class="pub-item" paper_categories="UB DL IR"><i>First International Workshop on Scholarly Information Access (SCOLIA).</i>
@@ -92,7 +91,7 @@ ECIR 2025: 326–331 (Workshop)
 <li class="pub-item" paper_categories="DL"><i>Building an Explainable Graph-based Biomedical Paper Recommendation System.</i>
 H Kroll, <u>CK Kreutz</u>, BM Thang, P Schaer, W-T Balke;
 AI4LAC@JCDL 2024
-<a href="https://arxiv.org/abs/2412.15229" target="_blank">[extended preprint]</a>
+<a href="https://arxiv.org/pdf/2412.15229" target="_blank">[extended preprint]</a>
 <a href="https://github.com/HermannKroll/NarrativeRecommender" target="_blank">[code]</a>
 <a href="https://www.hkroll.de/presentation/2024_12_JCDL2024AI4LAC%20Graph-based%20Paper%20Recommendation.pdf" target="_blank">[slides]</a>
 </li>
@@ -159,7 +158,7 @@ ACM SIGIR Forum 58(2): 1-14 (2024)
 <li class="pub-item" paper_categories="IR"><i>Report on the Collab-a-Thon at ECIR 2024.</i>
 S MacAvaney, A Roegiest, A Lipani, A Parry, B Engelmann, <u>CK Kreutz</u>, C Meng, E Frayling, E Yang, F Schlatt, G Faggioli, H Scells, I Atanassova, J Friese, J Bevendorff, J Sanz-Cruzado, J Trippas, K Pathak, K Dhole, L Azzopardi, M Fröbe, M Bertin, N Prasad, S Zerhoudi, S Wang, S Chatterjee, T Jaenich, U Kruschwitz, X Wang, Z Lon;
 ACM SIGIR Forum 58(1): 1-11 (2024)
-<a href="https://dl.acm.org/doi/abs/10.1145/3687273.3687287" target="_blank">[paper]</a>
+<a href="https://dl.acm.org/doi/10.1145/3687273.3687287" target="_blank">[paper]</a>
 </li>
 <li class="pub-item" paper_categories="IR"><i>Report on the 8th Workshop on Search-Oriented Conversational Artificial Intelligence (SCAI 2024) at CHIIR 2024.</i>
 A Frummet, A Papenmeier, M Fröbe, J Kiesel, V Adlakha, N Braunschweiler, M Dubiel, S Ghosh, M Gohsen, <u>C Kreutz</u>, M Momeni, M Nilles, SP Cherumanal, A Pirmoradi, P Thomas, JR Trippas, I Zelch, O Zendel;
@@ -255,7 +254,7 @@ IJDL 23(2): 113–132 (2022)
 <u>CK Kreutz</u>, K Balog, R Schenkel;
 WI-IAT 2021: 79-86
 <a href="https://dl.acm.org/doi/pdf/10.1145/3486622.3493931" target="_blank">[paper]</a> 
-<a href="http://arxiv.org/pdf/2201.11030.pdf" target="_blank">[preprint]</a>
+<a href="https://arxiv.org/pdf/2201.11030.pdf" target="_blank">[preprint]</a>
 <a href="https://github.com/kreutzch/DiveRS" target="_blank">[code]</a>
 <a href="https://www.youtube.com/watch?v=0JgLfhDohf0" target="_blank">[video]</a>
 </li>
@@ -280,7 +279,7 @@ ICADL 2020: 323-339
 <li class="pub-item" paper_categories="IR"><i>Segmenting and Clustering Noisy Arguments.</i>
 L Dumani, <u>CK Kreutz</u>, M Biertz, A Witry, R Schenkel;
 LWDA 2020: 23-34
-<a href="http://ceur-ws.org/Vol-2738/LWDA2020_paper_24.pdf" target="_blank">[paper]</a>
+<a href="https://ceur-ws.org/Vol-2738/LWDA2020_paper_24.pdf" target="_blank">[paper]</a>
 </li>
 <li class="pub-item" paper_categories="DL"><i>Evaluating semantometrics from computer science publications.</i>
 <u>CK Kreutz</u>, P Sahitaj, R Schenkel;
@@ -301,7 +300,7 @@ ICADL 2019: 239-246
 <li class="pub-item" paper_categories="DL"><i>Revaluating Semantometrics from Computer Science Publications.</i>
 <u>CK Kreutz</u>, P Sahitaj, R Schenkel;
 BIRNDL@SIGIR 2019: 42-55
-<a href="http://ceur-ws.org/Vol-2414/paper5.pdf" target="_blank">[paper]</a>
+<a href="https://ceur-ws.org/Vol-2414/paper5.pdf" target="_blank">[paper]</a>
 <a href="https://zenodo.org/record/3258164#.ZEzavS9n68U" target="_blank">[data]</a>
 </li>
 <li class="pub-item" paper_categories="DL"><i>SchenQL - A Domain-Specific Query Language on Bibliographic Metadata.</i>
@@ -312,13 +311,13 @@ CoRR abs/1906.06132 (2019)
 <li class="pub-item" paper_categories="DL"><i>FacetSearch: A Faceted Information Search and Exploration Prototype.</i>
 <u>CK Kreutz</u>, P Boesten, A Witry, R Schenkel;
 LWDA 2018: 215-226
-<a href="http://ceur-ws.org/Vol-2191/paper26.pdf" target="_blank">[paper]</a>
-<a href="http://data.dws.informatik.uni-mannheim.de/lwda2018/Joint%20Session%201%20Christin%20Katharina%20Kreutz.mp4" target="_blank">[video]</a>
+<a href="https://ceur-ws.org/Vol-2191/paper26.pdf" target="_blank">[paper]</a>
+<a href="https://data.dws.informatik.uni-mannheim.de/lwda2018/Joint%20Session%201%20Christin%20Katharina%20Kreutz.mp4" target="_blank">[video]</a>
 </li>
 <li class="pub-item" paper_categories="DL"><i>A Hybrid Approach for Dynamic Topic Models with Fluctuating Number of Topics.</i>
 <u>CK Kreutz</u>;
 Grundlagen von Datenbanken 2018: 35-40
-<a href="http://ceur-ws.org/Vol-2126/paper5.pdf" target="_blank">[paper]</a>
+<a href="https://ceur-ws.org/Vol-2126/paper5.pdf" target="_blank">[paper]</a>
 </li>
 <li class="pub-item" paper_categories="DL"><i>Trend Mining on Bibliographic Data.</i>
 <u>CK Kreutz</u>;
