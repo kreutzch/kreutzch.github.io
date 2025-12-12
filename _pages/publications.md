@@ -78,6 +78,11 @@ SIGIR 2025: 4172-4175 (Workshop)
 <a href="https://arxiv.org/pdf/2505.11687" target="_blank">[preprint]</a>
 <a href="https://sim4ia.org/sigir2025/" target="_blank">[webpage]</a>
 </li>
+<li class="pub-item" paper_categories="UB DL IR"><i>Proceedings of the First International Workshop on Scholarly Information Access co-located with 47th European Conference on Information Retrieval (ECIR 2025), Lucca, Italy, April 10th, 2025.</i>
+I Frommholz, P Mayr, G Cabanac, S Verberne, <u>CK Kreutz</u>;
+CEUR Workshop Proceedings 4022
+<a href="https://ceur-ws.org/Vol-4022/" target="_blank">[proceedings]</a>
+</li>
 <li class="pub-item" paper_categories="UB DL IR"><i>First International Workshop on Scholarly Information Access (SCOLIA).</i>
 I Frommholz, P Mayr, G Cabanac, S Verberne, <u>CK Kreutz</u>;
 ECIR 2025: 326–331 (Workshop)
