@@ -29,16 +29,17 @@ I Frommholz, <u>CK Kreutz</u>, P Mayr, G Cabanac;
 ECIR 2026 (Workshop)
 <a href="https://sites.google.com/view/bir-ws/scolia-2026" target="_blank">[webpage]</a>
 </li>
-</ul>
-
-##### 2025
-<ul class="pub-list">
 <li class="pub-item" paper_categories="SIM IR"><i>Sim4IA-Bench: A User Simulation Benchmark Suite for Next Query and Utterance Prediction.</i>
-AK Kruff, <u>CK Kreutz</u>, T Breuer, P Schaer, K Balog
+AK Kruff, <u>CK Kreutz</u>, T Breuer, P Schaer, K Balog;
+ECIR 2026
 <a href="https://arxiv.org/pdf/2511.09329" target="_blank">[preprint]</a>
 <a href="https://github.com/irgroup/Sim4IA-Bench" target="_blank">[code]</a>
 <a href="https://zenodo.org/communities/sim4ia_workshop_2025" target="_blank">[data]</a>
 </li>
+</ul>
+
+##### 2025
+<ul class="pub-list">
 <li class="pub-item" paper_categories="TS"><i>THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts.</i>
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
 SimpleText@CLEF 2025: 4276-4285 
