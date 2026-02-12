@@ -90,6 +90,25 @@ ECIR 2025: 326–331 (Workshop)
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-88720-8_50" target="_blank">[paper]</a>
 <a href="https://sites.google.com/view/bir-ws/scolia-2025" target="_blank">[webpage]</a>
 </li>
+
+<li class="pub-item" paper_categories="SIM IR"><i>User Simulation in Practice: Lessons Learned from Three Shared Tasks.</i>
+M Gohsen, Z Abbasiantaeb, M Aliannejadi, K Balog, T Breuer, J Dalton, M Fröbe, <u>CK Kreutz</u>, A Kruff, S Lupart, N Mirzakhmedova, H Scells, P Schaer, B Stein, J Kiesel;
+ACM SIGIR Forum 59(2) (2025)
+<a href="https://sigir.org/wp-content/uploads/2026/02/p03.pdf" target="_blank">[paper]</a>
+</li>
+
+
+<li class="pub-item" paper_categories="SIM IR"><i>Report on the Second Workshop on Simulations for Information Access (Sim4IA 2025) at SIGIR 2025.</i>
+P Schaer, <u>CK Kreutz</u>, K Balog, T Breuer, Areas Kruff, M Aliannejadi, C Bauer, N Bernard, N Ferro, M Gohsen, N Lubis, S Zerhoudi;
+ACM SIGIR Forum 59(2) (2025)
+<a href="https://sigir.org/wp-content/uploads/2026/02/p13.pdf" target="_blank">[paper]</a>
+</li>
+
+<li class="pub-item" paper_categories="DL UB"><i>Report on the 1st Workshop on Building Innovative Research Systems for Digital Libraries (BIRDS 2025) at TPDL 2025.</i>
+<u>CK Kreutz</u>, H Kroll, S Ateia, M-A Azaïs, W-T Balke, J-B de la Broise, L Ermakova, J Kamps, H Klair, A Kukkaro, S Kumpulainen, T Risse, J Wu;
+ACM SIGIR Forum 59(2) (2025)
+<a href="https://sigir.org/wp-content/uploads/2026/02/p17.pdf" target="_blank">[paper]</a>
+</li>
 </ul>
 
 ##### 2024
