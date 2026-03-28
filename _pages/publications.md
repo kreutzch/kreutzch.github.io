@@ -32,11 +32,13 @@ CEUR Workshop Proceedings 4187
 <li class="pub-item" paper_categories="UB DL IR"><i>The Second Workshop on Scholarly Information Access (SCOLIA 2026).</i>
 I Frommholz, <u>CK Kreutz</u>, P Mayr, G Cabanac;
 ECIR 2026 (Workshop)
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-21324-2_17" target="_blank">[pdf]</a>
 <a href="https://sites.google.com/view/bir-ws/scolia-2026" target="_blank">[webpage]</a>
 </li>
 <li class="pub-item" paper_categories="SIM IR"><i>Sim4IA-Bench: A User Simulation Benchmark Suite for Next Query and Utterance Prediction.</i>
 AK Kruff, <u>CK Kreutz</u>, T Breuer, P Schaer, K Balog;
 ECIR 2026
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-21321-1_61" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/pdf/2511.09329" target="_blank">[preprint]</a>
 <a href="https://github.com/irgroup/Sim4IA-Bench" target="_blank">[code]</a>
 <a href="https://zenodo.org/communities/sim4ia_workshop_2025" target="_blank">[data]</a>
