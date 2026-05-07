@@ -24,6 +24,10 @@ author_profile: True
 
 ##### 2026
 <ul class="pub-list">
+<li class="pub-item" paper_categories=""><i>Are Researchers Being Replaced by Artificial Intelligence?</i>
+AA Salatino, A Scherp, <u>CK Kreutz</u>, S Vahdati
+<a href="https://doi.org/10.5281/zenodo.20069247" target="_blank">[preprint]</a>
+</li>
 <li class="pub-item" paper_categories="UB DL IR"><i>Proceedings of the Second International Workshop on Scholarly Information Access (SCOLIA 2026) co-located with the 48th European Conference on Information Retrieval (ECIR 2026), Delft, The Netherlands, April 2nd, 2026.</i>
 I Frommholz, <u>CK Kreutz</u>, P Mayr, G Cabanac;
 CEUR Workshop Proceedings 4187
