@@ -24,6 +24,10 @@ author_profile: True
 
 ##### 2026
 <ul class="pub-list">
+<li class="pub-item" paper_categories="TS"><i>Lexical Simplification for Scientific Texts: Revisiting SARI in the Era of Modern LLMs.</i>
+N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
+CLEF 2026
+</li>
 <li class="pub-item" paper_categories=""><i>Are Researchers Being Replaced by Artificial Intelligence?</i>
 AA Salatino, A Scherp, <u>CK Kreutz</u>, S Vahdati
 <a href="https://arxiv.org/abs/2605.16294" target="_blank">[arXiv preprint]</a>
