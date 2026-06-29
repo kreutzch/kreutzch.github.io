@@ -268,6 +268,10 @@ Journal of Data Intelligence 4(1&2): 101-133 (2023)
 
 ##### 2022
 <ul class="pub-list">
+<li class="pub-item" paper_categories="DL IR"><i>Information Systems on Bibliographic Metadata for Researchers.</i>
+<u>CK Kreutz</u>
+<a href="../files/Thesis.pdf" target="_blank">[dissertation]</a>
+</li>
 <li class="pub-item" paper_categories="DL"><i>Scientific Paper Recommendation Systems: a Literature Review of recent Publications.</i>
 <u>CK Kreutz</u>, R Schenkel;
 IJDL 23(4): 335-369 (2022)
