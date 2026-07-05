@@ -28,6 +28,14 @@ author_profile: True
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
 CLEF 2026
 </li>
+<li class="pub-item" paper_categories="TS"><i>THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification</i>
+J Dauenhauer, N Hofmann, <u>CK Kreutz</u>;
+SimpleText@CLEF 2026
+</li>    
+<li class="pub-item" paper_categories="TS"><i>clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Text</i>
+CL Njinpie Noutche, <u>CK Kreutz</u>;
+SimpleText@CLEF 2026
+</li>    
 <li class="pub-item" paper_categories=""><i>Are Researchers Being Replaced by Artificial Intelligence?</i>
 AA Salatino, A Scherp, <u>CK Kreutz</u>, S Vahdati
 <a href="https://arxiv.org/abs/2605.16294" target="_blank">[arXiv preprint]</a>
