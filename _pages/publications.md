@@ -27,14 +27,22 @@ author_profile: True
 <li class="pub-item" paper_categories="TS"><i>Lexical Simplification for Scientific Texts: Revisiting SARI in the Era of Modern LLMs.</i>
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
 CLEF 2026
+<a href="https://doi.org/10.1007/978-3-032-39150-6_16" target="_blank">[paper]</a>
+<a href="https://github.com/kreutzch/BoL-CLEF-26_THM-SimpleText-25" target="_blank">[code]</a>
+<a href="../files/CLEF2026_BoL_Slides.pdf" target="_blank">[slides]</a>
+<a href="../files/CLEF2026_BoL_Poster.pdf" target="_blank">[poster]</a>
 </li>
 <li class="pub-item" paper_categories="TS"><i>THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification.</i>
 J Dauenhauer, N Hofmann, <u>CK Kreutz</u>;
 SimpleText@CLEF 2026
+<a href="https://github.com/kreutzch/THM-SimpleText-26" target="_blank">[code]</a>
+<a href="../files/SimpleText@CLEF2026_Task2_Slides.pdf" target="_blank">[slides]</a>
 </li>    
 <li class="pub-item" paper_categories="TS"><i>clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Text.</i>
 CL Njinpie Noutche, <u>CK Kreutz</u>;
 SimpleText@CLEF 2026
+<a href="https://github.com/kreutzch/CLNN88-SimpleText-26" target="_blank">[code]</a>
+<a href="../files/SimpleText@CLEF2026_Task1_Slides.pdf" target="_blank">[slides]</a>
 </li>    
 <li class="pub-item" paper_categories=""><i>Are Researchers Being Replaced by Artificial Intelligence?</i>
 AA Salatino, A Scherp, <u>CK Kreutz</u>, S Vahdati
