@@ -24,6 +24,10 @@ author_profile: True
 
 ##### 2026
 <ul class="pub-list">
+<li class="pub-item" paper_categories=""><i>LinkSpace: A Toolkit for Linked Spatial Views in Virtual Reality.</i>
+K Linne, K Stock, <u>CK Kreutz</u>, J Gugenheimer, M Weigel;
+VRST 2026
+</li>
 <li class="pub-item" paper_categories="TS"><i>Lexical Simplification for Scientific Texts: Revisiting SARI in the Era of Modern LLMs.</i>
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
 CLEF 2026
