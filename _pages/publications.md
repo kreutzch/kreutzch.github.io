@@ -25,12 +25,14 @@ author_profile: True
 ##### 2026
 <ul class="pub-list">
 <li class="pub-item" paper_categories=""><i>LinkSpace: A Toolkit for Linked Spatial Views in Virtual Reality.</i>
-K Linne, K Stock, <u>CK Kreutz</u>, J Gugenheimer, M Weigel;
+K Linne, KR Stock, <u>CK Kreutz</u>, J Gugenheimer, M Weigel;
 VRST 2026
+<a href="https://martinweigel.com/research/linkspace/2026-LinkSpace.pdf" target="_blank">[paper]</a>
+<a href="https://github.com/thm-mni-ii/LinkSpace" target="_blank">[code]</a>
 </li>
 <li class="pub-item" paper_categories="TS"><i>Lexical Simplification for Scientific Texts: Revisiting SARI in the Era of Modern LLMs.</i>
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
-CLEF 2026
+CLEF 2026: 216–231
 <a href="https://doi.org/10.1007/978-3-032-39150-6_16" target="_blank">[paper]</a>
 <a href="https://github.com/kreutzch/BoL-CLEF-26_THM-SimpleText-25" target="_blank">[code]</a>
 <a href="../files/CLEF2026_BoL_Slides.pdf" target="_blank">[slides]</a>
@@ -38,13 +40,15 @@ CLEF 2026
 </li>
 <li class="pub-item" paper_categories="TS"><i>THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification.</i>
 J Dauenhauer, N Hofmann, <u>CK Kreutz</u>;
-SimpleText@CLEF 2026
+SimpleText@CLEF Working Notes 2026: 6055-6063
+<a href="https://ceur-ws.org/Vol-4283/paper456.pdf" target="_blank">[paper]</a>
 <a href="https://github.com/kreutzch/THM-SimpleText-26" target="_blank">[code]</a>
 <a href="../files/SimpleText@CLEF2026_Task2_Slides.pdf" target="_blank">[slides]</a>
 </li>    
 <li class="pub-item" paper_categories="TS"><i>clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Text.</i>
 CL Njinpie Noutche, <u>CK Kreutz</u>;
-SimpleText@CLEF 2026
+SimpleText@CLEF Working Notes 2026: 6172-6178
+<a href="https://ceur-ws.org/Vol-4283/paper467.pdf" target="_blank">[paper]</a>
 <a href="https://github.com/kreutzch/CLNN88-SimpleText-26" target="_blank">[code]</a>
 <a href="../files/SimpleText@CLEF2026_Task1_Slides.pdf" target="_blank">[slides]</a>
 </li>    
@@ -78,7 +82,7 @@ ECIR 2026: 4, 594–609
 <ul class="pub-list">
 <li class="pub-item" paper_categories="TS"><i>THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts.</i>
 N Hofmann, J Dauenhauer, NO Dietzler, ID Idahor, <u>CK Kreutz</u>;
-SimpleText@CLEF 2025: 4276-4285 
+SimpleText@CLEF Working Notes 2025: 4276-4285 
 <a href="https://ceur-ws.org/Vol-4038/paper_352.pdf" target="_blank">[paper]</a>
 <a href="https://arxiv.org/pdf/2507.04414" target="_blank">[preprint]</a>
 <a href="https://github.com/kreutzch/THM-SimpleText-25" target="_blank">[code]</a>
@@ -243,7 +247,7 @@ TPDL 2023: 31–46
 </li>
 <li class="pub-item" paper_categories="TS"><i>Text Simplification of Scientific Texts for Non-Expert Readers.</i>
 B Engelmann, F Haak, <u>CK Kreutz</u>, N Nikzad Khasmakhi, P Schaer;
-SimpleText@CLEF 2023: 2987-2998
+SimpleText@CLEF Working Notes 2023: 2987-2998
 <a href="https://ceur-ws.org/Vol-3497/paper-250.pdf" target="_blank">[paper]</a> 
 <a href="https://arxiv.org/pdf/2307.03569.pdf" target="_blank">[preprint]</a>
 <a href="https://colab.research.google.com/drive/10LyozPzxUlqFxHkXyfjxezO469c1ou9z?usp=sharing" target="_blank">[code (ChatGPT)]</a>
