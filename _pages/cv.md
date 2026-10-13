@@ -16,6 +16,7 @@ redirect_from:
 * since 05.24: Tandem Professor for *Data Science in the Humanities*
   * <a href="https://www.thm.de/site/en/" target="_blank">TH Mittelhessen - University of Applied Sciences</a>
   * Member of the <a href="https://www.thm.de/mni/forschung/institute-gruppen/ipa/ipa-ueberblick.html" target="_blank">Institute for Programming Languages and their Application (IPA)</a>
+  * Member of the <a href="https://www.thm.de/mni/forschung/institute-gruppen/ii/ii-ueberblick.html" target="_blank">Institute for Information Science (II)</a>
 
 * since 05.24: Research Associate
   * <a href="https://www.herder-institut.de/en/welcome/" target="_blank">Herder Institute for Historical Research on East Central Europe</a>
