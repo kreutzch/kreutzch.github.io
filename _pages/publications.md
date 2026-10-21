@@ -21,6 +21,13 @@ author_profile: True
 </div>
 <div id="filter-count"></div>
 
+##### 2027
+<ul class="pub-list">
+<li class="pub-item" paper_categories="UB DL IR"><i>The Third Workshop on Scholarly Information Access (SCOLIA 2027).</i>
+I Frommholz, <u>CK Kreutz</u>, H Scells, P Mayr, G Cabanac;
+ECIR 2027 (Workshop)
+</li>
+</ul>
 
 ##### 2026
 <ul class="pub-list">
